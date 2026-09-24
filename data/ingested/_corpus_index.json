@@ -1,0 +1,101 @@
+[
+  {
+    "doc_id": "POL-ORD-001_v1.0",
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-001",
+    "version": "1.0",
+    "status": "SUPERSEDED",
+    "is_current": false,
+    "num_pages": 4,
+    "num_blocks": 70,
+    "num_tables": 4
+  },
+  {
+    "doc_id": "POL-ORD-001_v2.0",
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-001",
+    "version": "2.0",
+    "status": "ACTIVE",
+    "is_current": true,
+    "num_pages": 4,
+    "num_blocks": 79,
+    "num_tables": 4
+  },
+  {
+    "doc_id": "POL-ORD-002_v1.0",
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-002",
+    "version": "1.0",
+    "status": "SUPERSEDED",
+    "is_current": false,
+    "num_pages": 3,
+    "num_blocks": 42,
+    "num_tables": 4
+  },
+  {
+    "doc_id": "POL-ORD-002_v2.0",
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-002",
+    "version": "2.0",
+    "status": "ACTIVE",
+    "is_current": true,
+    "num_pages": 3,
+    "num_blocks": 57,
+    "num_tables": 4
+  },
+  {
+    "doc_id": "POL-ORD-003_v1.0",
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-003",
+    "version": "1.0",
+    "status": "SUPERSEDED",
+    "is_current": false,
+    "num_pages": 3,
+    "num_blocks": 37,
+    "num_tables": 4
+  },
+  {
+    "doc_id": "POL-ORD-003_v2.0",
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-003",
+    "version": "2.0",
+    "status": "ACTIVE",
+    "is_current": true,
+    "num_pages": 3,
+    "num_blocks": 42,
+    "num_tables": 5
+  },
+  {
+    "doc_id": "WP-ORD-001",
+    "doc_type": "work_paper",
+    "policy_id": "WP-ORD-001",
+    "version": null,
+    "status": "CLOSED",
+    "is_current": null,
+    "num_pages": 3,
+    "num_blocks": 51,
+    "num_tables": 5
+  },
+  {
+    "doc_id": "WP-ORD-002",
+    "doc_type": "work_paper",
+    "policy_id": "WP-ORD-002",
+    "version": null,
+    "status": "CLOSED",
+    "is_current": null,
+    "num_pages": 3,
+    "num_blocks": 47,
+    "num_tables": 5
+  },
+  {
+    "doc_id": "WP-ORD-003",
+    "doc_type": "work_paper",
+    "policy_id": "WP-ORD-003",
+    "version": null,
+    "status": "CLOSED",
+    "is_current": null,
+    "num_pages": 3,
+    "num_blocks": 43,
+    "num_tables": 3
+  }
+]

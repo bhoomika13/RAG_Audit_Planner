@@ -1,0 +1,325 @@
+{
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+  "parsed_at": "2026-09-23T09:11:16.183911+00:00",
+  "num_pages": 3,
+  "ocr_engine_available": false,
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "text",
+      "char_count": 404,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "CFO POLICY FRAMEWORK"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "ORDER INTAKE VALUE & SSP"
+        },
+        {
+          "block_type": "line",
+          "top": 111,
+          "text": "ALLOCATION"
+        },
+        {
+          "block_type": "line",
+          "top": 135,
+          "text": "Policy & Control Standard"
+        },
+        {
+          "block_type": "table",
+          "top": 160.0,
+          "rows": [
+            [
+              "POLICY ID",
+              "POL-ORD-002",
+              "VERSION",
+              "1.0"
+            ],
+            [
+              "STATUS",
+              "SUPERSEDED",
+              "EFFECTIVE",
+              "March 2023"
+            ],
+            [
+              "SUPERSEDED",
+              "June 2025",
+              "CONTROL ID",
+              "CTRL-REV-015"
+            ],
+            [
+              "PROCESS AREA",
+              "Order-to-Cash (O2C)",
+              "OWNER",
+              "Group Finance – Revenue Assurance"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "SUPERSEDED"
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "Historical version retained for audit trail, prior-period testing and control traceability."
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "text",
+      "char_count": 1442,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "1. Purpose"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "This policy defines the methodology used to measure the value of Order Intake for multi-element arrangements,"
+        },
+        {
+          "block_type": "line",
+          "top": 102,
+          "text": "including allocation of contract value across deliverables using Standalone Selling Price (SSP)."
+        },
+        {
+          "block_type": "line",
+          "top": 129,
+          "text": "2. Scope"
+        },
+        {
+          "block_type": "line",
+          "top": 156,
+          "text": "Applies to all multi-element customer arrangements combining:"
+        },
+        {
+          "block_type": "line",
+          "top": 174,
+          "text": "- Hardware/Software (HW/SW) deliverables, AND"
+        },
+        {
+          "block_type": "line",
+          "top": 192,
+          "text": "- Services deliverables"
+        },
+        {
+          "block_type": "line",
+          "top": 225,
+          "text": "3. Definitions"
+        },
+        {
+          "block_type": "line",
+          "top": 249,
+          "text": "Standalone Selling Price (SSP): The price at which the Company would sell a deliverable separately under similar"
+        },
+        {
+          "block_type": "line",
+          "top": 261,
+          "text": "circumstances."
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "4. Roles and Responsibilities"
+        },
+        {
+          "block_type": "table",
+          "top": 313.5,
+          "rows": [
+            [
+              "Role",
+              "Responsibility"
+            ],
+            [
+              "Deal Desk",
+              "Prepares SSP allocation calculations"
+            ],
+            [
+              "Finance Manager",
+              "Reviews allocations exceeding variance threshold"
+            ],
+            [
+              "Pricing Team",
+              "Maintains standard list price catalogue"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 2
+        },
+        {
+          "block_type": "line",
+          "top": 411,
+          "text": "5. SSP Allocation Methodology"
+        },
+        {
+          "block_type": "line",
+          "top": 438,
+          "text": "5.1 Calculation Basis"
+        },
+        {
+          "block_type": "line",
+          "top": 459,
+          "text": "Allocation is performed using the Standalone List Price method. Each deliverable is allocated a share of total contract"
+        },
+        {
+          "block_type": "line",
+          "top": 471,
+          "text": "value based on its list price relative to total list price of all deliverables. No weighting adjustment is applied."
+        },
+        {
+          "block_type": "line",
+          "top": 495,
+          "text": "5.2 Allocation Formula"
+        },
+        {
+          "block_type": "line",
+          "top": 516,
+          "text": "SSP Allocation (Deliverable) = (List Price of Deliverable ÷ Total List Price of All Deliverables) × Total Contract Value"
+        },
+        {
+          "block_type": "line",
+          "top": 546,
+          "text": "6. Sample Allocation Illustration"
+        },
+        {
+          "block_type": "table",
+          "top": 568.0,
+          "rows": [
+            [
+              "Deliverable",
+              "Contract Value",
+              "SSP",
+              "SSP Allocation"
+            ],
+            [
+              "HW/SW",
+              "30",
+              "30",
+              "27.90"
+            ],
+            [
+              "Services",
+              "1",
+              "10",
+              "3.10"
+            ],
+            [
+              "Total",
+              "31",
+              "40",
+              "31.00"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 651,
+          "text": "The allocation reflects a proportional split based on the list price ratio of 30:10, applied against total contract value of"
+        },
+        {
+          "block_type": "line",
+          "top": 663,
+          "text": "31."
+        },
+        {
+          "block_type": "line",
+          "top": 693,
+          "text": "7. Approval Requirements"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "text",
+      "char_count": 462,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "Allocations resulting in variance greater than 20% from standard list price ratios require Finance Manager sign-off"
+        },
+        {
+          "block_type": "line",
+          "top": 75,
+          "text": "prior to booking."
+        },
+        {
+          "block_type": "line",
+          "top": 105,
+          "text": "8. Related Policies"
+        },
+        {
+          "block_type": "line",
+          "top": 129,
+          "text": "- POL-ORD-001: Order Intake Recognition & Measurement Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 147,
+          "text": "- POL-ORD-003: Order Intake Approval & Backlog Management Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 177,
+          "text": "9. Revision History"
+        },
+        {
+          "block_type": "table",
+          "top": 201.0,
+          "rows": [
+            [
+              "Version",
+              "Date",
+              "Summary of Change"
+            ],
+            [
+              "1.0",
+              "Mar 2023",
+              "Initial policy issuance"
+            ]
+          ],
+          "n_rows": 2,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 258,
+          "text": "CONTROLLED DOCUMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 282,
+          "text": "POL-ORD-002 | VERSION 1.0 | SUPERSEDED"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+        }
+      ]
+    }
+  ]
+}

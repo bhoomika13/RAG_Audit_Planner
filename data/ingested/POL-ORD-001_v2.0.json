@@ -1,0 +1,634 @@
+{
+  "doc_id": "POL-ORD-001_v2.0",
+  "doc_type": "policy",
+  "metadata": {
+    "doc_type": "policy",
+    "policy_id": "POL-ORD-001",
+    "version": "2.0",
+    "status": "ACTIVE",
+    "effective_date": "2025-01",
+    "superseded_date": null,
+    "control_id": "CTRL-REV-014",
+    "process_area": "Order-to-Cash (O2C)",
+    "owner": "Group Finance – Revenue Assurance",
+    "change_basis": "2024 internal audit cycle",
+    "audit_cycle": null,
+    "date_prepared": null,
+    "prepared_by": null,
+    "tests_policy_id": null,
+    "tests_policy_version": null,
+    "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v2.0_Order-Intake-Recognition-Measurement.pdf",
+    "parsed_json_path": "data\\parsed\\POL-ORD-001_v2.0_Order-Intake-Recognition-Measurement.json",
+    "doc_id": "POL-ORD-001_v2.0",
+    "supersedes": "POL-ORD-001_v1.0",
+    "superseded_by": null,
+    "is_current": true
+  },
+  "num_pages": 4,
+  "num_blocks": 79,
+  "num_tables": 4,
+  "pages": [
+    {
+      "page_content": "CFO POLICY FRAMEWORK\nORDER INTAKE\nRECOGNITION & MEASUREMENT\nPolicy & Control Standard\nPOLICY ID | POL-ORD-001 | VERSION | 2.0\nSTATUS | ACTIVE / IN FORCE | EFFECTIVE | January 2025\nCONTROL ID | CTRL-REV-014 | PROCESS AREA | Order-to-Cash (O2C)\nOWNER | Group Finance – Revenue Assurance | CHANGE BASIS | 2024 internal audit cycle\nACTIVE / IN FORCE\nCurrent controlled version. Use this version for current audit planning and control testing.\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v2.0_Order-Intake-Recognition-Measurement.pdf",
+        "page_number": 1,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "CFO POLICY FRAMEWORK"
+          },
+          {
+            "block_type": "line",
+            "top": 87,
+            "text": "ORDER INTAKE"
+          },
+          {
+            "block_type": "line",
+            "top": 111,
+            "text": "RECOGNITION & MEASUREMENT"
+          },
+          {
+            "block_type": "line",
+            "top": 135,
+            "text": "Policy & Control Standard"
+          },
+          {
+            "block_type": "table",
+            "top": 160.0,
+            "rows": [
+              [
+                "POLICY ID",
+                "POL-ORD-001",
+                "VERSION",
+                "2.0"
+              ],
+              [
+                "STATUS",
+                "ACTIVE / IN FORCE",
+                "EFFECTIVE",
+                "January 2025"
+              ],
+              [
+                "CONTROL ID",
+                "CTRL-REV-014",
+                "PROCESS AREA",
+                "Order-to-Cash (O2C)"
+              ],
+              [
+                "OWNER",
+                "Group Finance – Revenue Assurance",
+                "CHANGE BASIS",
+                "2024 internal audit cycle"
+              ]
+            ],
+            "n_rows": 4,
+            "n_cols": 4
+          },
+          {
+            "block_type": "line",
+            "top": 267,
+            "text": "ACTIVE / IN FORCE"
+          },
+          {
+            "block_type": "line",
+            "top": 291,
+            "text": "Current controlled version. Use this version for current audit planning and control testing."
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+          }
+        ],
+        "doc_id": "POL-ORD-001_v2.0",
+        "doc_type": "policy",
+        "policy_id": "POL-ORD-001",
+        "version": "2.0",
+        "status": "ACTIVE",
+        "is_current": true,
+        "control_id": "CTRL-REV-014",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": "Group Finance – Revenue Assurance",
+        "effective_date": "2025-01",
+        "superseded_date": null,
+        "supersedes": "POL-ORD-001_v1.0",
+        "superseded_by": null,
+        "audit_cycle": null,
+        "date_prepared": null,
+        "tests_policy_id": null,
+        "tests_policy_version": null,
+        "tests_policy_doc_id": null
+      }
+    },
+    {
+      "page_content": "1. Purpose\nThis policy establishes the principles, criteria, and controls governing the recognition and measurement of Order\nIntake across the Company. This version supersedes v1.0 and introduces enhanced controls following the 2024\ninternal audit cycle.\n2. Scope\nThis policy applies to all business units, regions, and legal entities that generate, process, or record customer orders\nunder the Order-to-Cash (O2C) cycle, including:\n- Hardware and Software arrangements\n- Standalone Services arrangements\n- Bundled multi-element arrangements\n3. Definitions\n3.1 Order\nA binding agreement between the Company and a customer, evidenced by BOTH a Purchase Order AND a\ncountersigned contract (see 5.2).\n3.2 Order Backlog\nThe cumulative value of Orders recognized as Order Intake but not yet delivered, fulfilled, or recognized as revenue.\n4. Roles and Responsibilities\nRole | Responsibility\nSales Operations | Order capture; ensures PO + contract obtained\nFinance Business Partners | Recognition criteria review\nRegional Finance Head | Risk sign-off (elevated from v1.0)\nGroup Treasury | Publishes month-end FX spot rates\nGroup Finance (Revenue Assurance) | Policy ownership and testing\n5. Order Intake Recognition and Measurement\n5.1 Recognition Criteria for Order Intake\nAn order shall be recognized as Order Intake when ALL of the following conditions are met:\n- A legally binding contract or Purchase Order (PO) exists, AND\n- The order value can be reliably measured, AND\n- Collectability is reasonably assured (see 5.3).\nKEY CHANGE FROM v1.0\nCollectability is now a recognition precondition, not merely a downstream approval trigger.\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v2.0_Order-Intake-Recognition-Measurement.pdf",
+        "page_number": 2,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "1. Purpose"
+          },
+          {
+            "block_type": "line",
+            "top": 87,
+            "text": "This policy establishes the principles, criteria, and controls governing the recognition and measurement of Order"
+          },
+          {
+            "block_type": "line",
+            "top": 102,
+            "text": "Intake across the Company. This version supersedes v1.0 and introduces enhanced controls following the 2024"
+          },
+          {
+            "block_type": "line",
+            "top": 114,
+            "text": "internal audit cycle."
+          },
+          {
+            "block_type": "line",
+            "top": 144,
+            "text": "2. Scope"
+          },
+          {
+            "block_type": "line",
+            "top": 168,
+            "text": "This policy applies to all business units, regions, and legal entities that generate, process, or record customer orders"
+          },
+          {
+            "block_type": "line",
+            "top": 183,
+            "text": "under the Order-to-Cash (O2C) cycle, including:"
+          },
+          {
+            "block_type": "line",
+            "top": 201,
+            "text": "- Hardware and Software arrangements"
+          },
+          {
+            "block_type": "line",
+            "top": 219,
+            "text": "- Standalone Services arrangements"
+          },
+          {
+            "block_type": "line",
+            "top": 237,
+            "text": "- Bundled multi-element arrangements"
+          },
+          {
+            "block_type": "line",
+            "top": 267,
+            "text": "3. Definitions"
+          },
+          {
+            "block_type": "line",
+            "top": 294,
+            "text": "3.1 Order"
+          },
+          {
+            "block_type": "line",
+            "top": 315,
+            "text": "A binding agreement between the Company and a customer, evidenced by BOTH a Purchase Order AND a"
+          },
+          {
+            "block_type": "line",
+            "top": 330,
+            "text": "countersigned contract (see 5.2)."
+          },
+          {
+            "block_type": "line",
+            "top": 354,
+            "text": "3.2 Order Backlog"
+          },
+          {
+            "block_type": "line",
+            "top": 372,
+            "text": "The cumulative value of Orders recognized as Order Intake but not yet delivered, fulfilled, or recognized as revenue."
+          },
+          {
+            "block_type": "line",
+            "top": 402,
+            "text": "4. Roles and Responsibilities"
+          },
+          {
+            "block_type": "table",
+            "top": 425.0,
+            "rows": [
+              [
+                "Role",
+                "Responsibility"
+              ],
+              [
+                "Sales Operations",
+                "Order capture; ensures PO + contract obtained"
+              ],
+              [
+                "Finance Business Partners",
+                "Recognition criteria review"
+              ],
+              [
+                "Regional Finance Head",
+                "Risk sign-off (elevated from v1.0)"
+              ],
+              [
+                "Group Treasury",
+                "Publishes month-end FX spot rates"
+              ],
+              [
+                "Group Finance (Revenue Assurance)",
+                "Policy ownership and testing"
+              ]
+            ],
+            "n_rows": 6,
+            "n_cols": 2
+          },
+          {
+            "block_type": "line",
+            "top": 561,
+            "text": "5. Order Intake Recognition and Measurement"
+          },
+          {
+            "block_type": "line",
+            "top": 588,
+            "text": "5.1 Recognition Criteria for Order Intake"
+          },
+          {
+            "block_type": "line",
+            "top": 609,
+            "text": "An order shall be recognized as Order Intake when ALL of the following conditions are met:"
+          },
+          {
+            "block_type": "line",
+            "top": 630,
+            "text": "- A legally binding contract or Purchase Order (PO) exists, AND"
+          },
+          {
+            "block_type": "line",
+            "top": 648,
+            "text": "- The order value can be reliably measured, AND"
+          },
+          {
+            "block_type": "line",
+            "top": 663,
+            "text": "- Collectability is reasonably assured (see 5.3)."
+          },
+          {
+            "block_type": "line",
+            "top": 687,
+            "text": "KEY CHANGE FROM v1.0"
+          },
+          {
+            "block_type": "line",
+            "top": 711,
+            "text": "Collectability is now a recognition precondition, not merely a downstream approval trigger."
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+          }
+        ],
+        "doc_id": "POL-ORD-001_v2.0",
+        "doc_type": "policy",
+        "policy_id": "POL-ORD-001",
+        "version": "2.0",
+        "status": "ACTIVE",
+        "is_current": true,
+        "control_id": "CTRL-REV-014",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": "Group Finance – Revenue Assurance",
+        "effective_date": "2025-01",
+        "superseded_date": null,
+        "supersedes": "POL-ORD-001_v1.0",
+        "superseded_by": null,
+        "audit_cycle": null,
+        "date_prepared": null,
+        "tests_policy_id": null,
+        "tests_policy_version": null,
+        "tests_policy_doc_id": null
+      }
+    },
+    {
+      "page_content": "5.2 Customer Commitment\nCustomer commitment must be evidenced by BOTH:\n- A signed Purchase Order\n- A countersigned contract\nOrders supported by a PO alone do NOT qualify for recognition.\n5.3 Collectability Assessment\n5.3.1 Risk Scoring Model\nCollectability is assessed using a combined weighted risk score:\nRisk Score = (0.40 × Credit Rating Score) + (0.35 × Payment History Score) + (0.25 × Country Risk Score)\nEach component is scored on a 0–100 scale. Credit Rating Score is derived from Group Credit Risk classification;\nPayment History Score is based on trailing 12-month payment behavior; Country Risk Score is published quarterly by\nGroup Treasury.\nRisk Score Range | Classification | Action Required\n80–100 | Low Risk | None\n50–79 | Medium Risk | Standard booking\nBelow 50 | High Risk | Regional Finance Head review\n5.3.2 Escalation Requirements\nOrders scoring below 50 require MANDATORY Regional Finance Head sign-off prior to booking.\n5.4 Timing for Booking of Order Intake\nOrder Intake shall be booked ONLY once BOTH of the following are received and verified by Finance:\n- Signed Purchase Order\n- Countersigned contract\n5.5 Orders in Non-Euro Currencies\n5.5.1 Conversion Methodology\nConverted Order Value (EUR) = Order Value (Local Currency) ÷ Month-End Spot Rate\nThe Month-End Spot Rate is published by Group Treasury as of the booking date.\n5.5.2 FX Variance Control\n-\nFX Variance (%) = |Booking Rate Order Date Rate| ÷ Order Date Rate × 100\nIf FX Variance (%) > 5%, the order must be:\n- Flagged in the system\n- Routed to the Controller for review prior to final booking\n6. Order Intake Approvals\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v2.0_Order-Intake-Recognition-Measurement.pdf",
+        "page_number": 3,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "5.2 Customer Commitment"
+          },
+          {
+            "block_type": "line",
+            "top": 84,
+            "text": "Customer commitment must be evidenced by BOTH:"
+          },
+          {
+            "block_type": "line",
+            "top": 102,
+            "text": "- A signed Purchase Order"
+          },
+          {
+            "block_type": "line",
+            "top": 120,
+            "text": "- A countersigned contract"
+          },
+          {
+            "block_type": "line",
+            "top": 135,
+            "text": "Orders supported by a PO alone do NOT qualify for recognition."
+          },
+          {
+            "block_type": "line",
+            "top": 159,
+            "text": "5.3 Collectability Assessment"
+          },
+          {
+            "block_type": "line",
+            "top": 186,
+            "text": "5.3.1 Risk Scoring Model"
+          },
+          {
+            "block_type": "line",
+            "top": 207,
+            "text": "Collectability is assessed using a combined weighted risk score:"
+          },
+          {
+            "block_type": "line",
+            "top": 225,
+            "text": "Risk Score = (0.40 × Credit Rating Score) + (0.35 × Payment History Score) + (0.25 × Country Risk Score)"
+          },
+          {
+            "block_type": "line",
+            "top": 246,
+            "text": "Each component is scored on a 0–100 scale. Credit Rating Score is derived from Group Credit Risk classification;"
+          },
+          {
+            "block_type": "line",
+            "top": 258,
+            "text": "Payment History Score is based on trailing 12-month payment behavior; Country Risk Score is published quarterly by"
+          },
+          {
+            "block_type": "line",
+            "top": 273,
+            "text": "Group Treasury."
+          },
+          {
+            "block_type": "table",
+            "top": 289.5,
+            "rows": [
+              [
+                "Risk Score Range",
+                "Classification",
+                "Action Required"
+              ],
+              [
+                "80–100",
+                "Low Risk",
+                "None"
+              ],
+              [
+                "50–79",
+                "Medium Risk",
+                "Standard booking"
+              ],
+              [
+                "Below 50",
+                "High Risk",
+                "Regional Finance Head review"
+              ]
+            ],
+            "n_rows": 4,
+            "n_cols": 3
+          },
+          {
+            "block_type": "line",
+            "top": 381,
+            "text": "5.3.2 Escalation Requirements"
+          },
+          {
+            "block_type": "line",
+            "top": 402,
+            "text": "Orders scoring below 50 require MANDATORY Regional Finance Head sign-off prior to booking."
+          },
+          {
+            "block_type": "line",
+            "top": 426,
+            "text": "5.4 Timing for Booking of Order Intake"
+          },
+          {
+            "block_type": "line",
+            "top": 447,
+            "text": "Order Intake shall be booked ONLY once BOTH of the following are received and verified by Finance:"
+          },
+          {
+            "block_type": "line",
+            "top": 468,
+            "text": "- Signed Purchase Order"
+          },
+          {
+            "block_type": "line",
+            "top": 483,
+            "text": "- Countersigned contract"
+          },
+          {
+            "block_type": "line",
+            "top": 510,
+            "text": "5.5 Orders in Non-Euro Currencies"
+          },
+          {
+            "block_type": "line",
+            "top": 537,
+            "text": "5.5.1 Conversion Methodology"
+          },
+          {
+            "block_type": "line",
+            "top": 555,
+            "text": "Converted Order Value (EUR) = Order Value (Local Currency) ÷ Month-End Spot Rate"
+          },
+          {
+            "block_type": "line",
+            "top": 576,
+            "text": "The Month-End Spot Rate is published by Group Treasury as of the booking date."
+          },
+          {
+            "block_type": "line",
+            "top": 600,
+            "text": "5.5.2 FX Variance Control"
+          },
+          {
+            "block_type": "line",
+            "top": 618,
+            "text": "-"
+          },
+          {
+            "block_type": "line",
+            "top": 621,
+            "text": "FX Variance (%) = |Booking Rate Order Date Rate| ÷ Order Date Rate × 100"
+          },
+          {
+            "block_type": "line",
+            "top": 639,
+            "text": "If FX Variance (%) > 5%, the order must be:"
+          },
+          {
+            "block_type": "line",
+            "top": 660,
+            "text": "- Flagged in the system"
+          },
+          {
+            "block_type": "line",
+            "top": 678,
+            "text": "- Routed to the Controller for review prior to final booking"
+          },
+          {
+            "block_type": "line",
+            "top": 708,
+            "text": "6. Order Intake Approvals"
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+          }
+        ],
+        "doc_id": "POL-ORD-001_v2.0",
+        "doc_type": "policy",
+        "policy_id": "POL-ORD-001",
+        "version": "2.0",
+        "status": "ACTIVE",
+        "is_current": true,
+        "control_id": "CTRL-REV-014",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": "Group Finance – Revenue Assurance",
+        "effective_date": "2025-01",
+        "superseded_date": null,
+        "supersedes": "POL-ORD-001_v1.0",
+        "superseded_by": null,
+        "audit_cycle": null,
+        "date_prepared": null,
+        "tests_policy_id": null,
+        "tests_policy_version": null,
+        "tests_policy_doc_id": null
+      }
+    },
+    {
+      "page_content": "Refer to POL-ORD-003 v2.0 for the revised delegation of authority matrix and thresholds.\n7. Exceptions and Escalation\nDeviations require Regional Finance Head approval, with escalation to Group Finance for exceptions exceeding\n$100,000 in order value.\n8. Related Policies\n- POL-ORD-002: Order Intake Value & SSP Allocation Policy\n- POL-ORD-003: Order Intake Approval & Backlog Management Policy\n9. Revision History\nVersion | Date | Summary of Change\n1.0 | Jan 2023 | Initial policy issuance\n2.0 | Jan 2025 | Dual-document commitment; weighted risk scoring; new FX conversion section; elevated ap\napproval authority\nCONTROLLED DOCUMENT\nPOL-ORD-001 | VERSION 2.0 | ACTIVE / IN FORCE\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 4",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v2.0_Order-Intake-Recognition-Measurement.pdf",
+        "page_number": 4,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "Refer to POL-ORD-003 v2.0 for the revised delegation of authority matrix and thresholds."
+          },
+          {
+            "block_type": "line",
+            "top": 90,
+            "text": "7. Exceptions and Escalation"
+          },
+          {
+            "block_type": "line",
+            "top": 114,
+            "text": "Deviations require Regional Finance Head approval, with escalation to Group Finance for exceptions exceeding"
+          },
+          {
+            "block_type": "line",
+            "top": 129,
+            "text": "$100,000 in order value."
+          },
+          {
+            "block_type": "line",
+            "top": 159,
+            "text": "8. Related Policies"
+          },
+          {
+            "block_type": "line",
+            "top": 183,
+            "text": "- POL-ORD-002: Order Intake Value & SSP Allocation Policy"
+          },
+          {
+            "block_type": "line",
+            "top": 201,
+            "text": "- POL-ORD-003: Order Intake Approval & Backlog Management Policy"
+          },
+          {
+            "block_type": "line",
+            "top": 231,
+            "text": "9. Revision History"
+          },
+          {
+            "block_type": "table",
+            "top": 254.5,
+            "rows": [
+              [
+                "Version",
+                "Date",
+                "Summary of Change"
+              ],
+              [
+                "1.0",
+                "Jan 2023",
+                "Initial policy issuance"
+              ],
+              [
+                "2.0",
+                "Jan 2025",
+                "Dual-document commitment; weighted risk scoring; new FX conversion section; elevated ap"
+              ]
+            ],
+            "n_rows": 3,
+            "n_cols": 3
+          },
+          {
+            "block_type": "line",
+            "top": 300,
+            "text": "approval authority"
+          },
+          {
+            "block_type": "line",
+            "top": 333,
+            "text": "CONTROLLED DOCUMENT"
+          },
+          {
+            "block_type": "line",
+            "top": 357,
+            "text": "POL-ORD-001 | VERSION 2.0 | ACTIVE / IN FORCE"
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 4"
+          }
+        ],
+        "doc_id": "POL-ORD-001_v2.0",
+        "doc_type": "policy",
+        "policy_id": "POL-ORD-001",
+        "version": "2.0",
+        "status": "ACTIVE",
+        "is_current": true,
+        "control_id": "CTRL-REV-014",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": "Group Finance – Revenue Assurance",
+        "effective_date": "2025-01",
+        "superseded_date": null,
+        "supersedes": "POL-ORD-001_v1.0",
+        "superseded_by": null,
+        "audit_cycle": null,
+        "date_prepared": null,
+        "tests_policy_id": null,
+        "tests_policy_version": null,
+        "tests_policy_doc_id": null
+      }
+    }
+  ]
+}

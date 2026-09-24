@@ -1,0 +1,23 @@
+{
+  "doc_type": "policy",
+  "policy_id": "POL-ORD-002",
+  "version": "2.0",
+  "status": "ACTIVE",
+  "effective_date": "2025-06",
+  "superseded_date": null,
+  "control_id": "CTRL-REV-015",
+  "process_area": "Order-to-Cash (O2C)",
+  "owner": "Group Finance – Revenue Assurance",
+  "change_basis": "Q1 2025 internal audit recommendatio",
+  "audit_cycle": null,
+  "date_prepared": null,
+  "prepared_by": null,
+  "tests_policy_id": null,
+  "tests_policy_version": null,
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v2.0_Order-Intake-Value-SSP-Allocation.pdf",
+  "parsed_json_path": "data\\parsed\\POL-ORD-002_v2.0_Order-Intake-Value-SSP-Allocation.json",
+  "doc_id": "POL-ORD-002_v2.0",
+  "supersedes": "POL-ORD-002_v1.0",
+  "superseded_by": null,
+  "is_current": true
+}

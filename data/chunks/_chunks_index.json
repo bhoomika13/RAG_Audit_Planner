@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "POL-ORD-001_v1.0",
+    "num_chunks": 12,
+    "num_text_chunks": 8,
+    "num_table_chunks": 4,
+    "avg_char_count": 328,
+    "max_char_count": 780
+  },
+  {
+    "doc_id": "POL-ORD-001_v2.0",
+    "num_chunks": 14,
+    "num_text_chunks": 10,
+    "num_table_chunks": 4,
+    "avg_char_count": 335,
+    "max_char_count": 786
+  },
+  {
+    "doc_id": "POL-ORD-002_v1.0",
+    "num_chunks": 11,
+    "num_text_chunks": 7,
+    "num_table_chunks": 4,
+    "avg_char_count": 222,
+    "max_char_count": 531
+  },
+  {
+    "doc_id": "POL-ORD-002_v2.0",
+    "num_chunks": 12,
+    "num_text_chunks": 8,
+    "num_table_chunks": 4,
+    "avg_char_count": 290,
+    "max_char_count": 778
+  },
+  {
+    "doc_id": "POL-ORD-003_v1.0",
+    "num_chunks": 11,
+    "num_text_chunks": 7,
+    "num_table_chunks": 4,
+    "avg_char_count": 183,
+    "max_char_count": 564
+  },
+  {
+    "doc_id": "POL-ORD-003_v2.0",
+    "num_chunks": 12,
+    "num_text_chunks": 7,
+    "num_table_chunks": 5,
+    "avg_char_count": 215,
+    "max_char_count": 782
+  },
+  {
+    "doc_id": "WP-ORD-001",
+    "num_chunks": 14,
+    "num_text_chunks": 9,
+    "num_table_chunks": 5,
+    "avg_char_count": 271,
+    "max_char_count": 698
+  },
+  {
+    "doc_id": "WP-ORD-002",
+    "num_chunks": 13,
+    "num_text_chunks": 8,
+    "num_table_chunks": 5,
+    "avg_char_count": 274,
+    "max_char_count": 752
+  },
+  {
+    "doc_id": "WP-ORD-003",
+    "num_chunks": 9,
+    "num_text_chunks": 6,
+    "num_table_chunks": 3,
+    "avg_char_count": 345,
+    "max_char_count": 791
+  }
+]

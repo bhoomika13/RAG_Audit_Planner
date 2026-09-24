@@ -1,0 +1,296 @@
+{
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-003_v1.0_Order-Intake-Approval-Backlog-Management.pdf",
+  "parsed_at": "2026-09-23T09:11:16.533097+00:00",
+  "num_pages": 3,
+  "ocr_engine_available": false,
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "text",
+      "char_count": 415,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "CFO POLICY FRAMEWORK"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "ORDER INTAKE APPROVAL &"
+        },
+        {
+          "block_type": "line",
+          "top": 111,
+          "text": "BACKLOG MANAGEMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 135,
+          "text": "Policy & Control Standard"
+        },
+        {
+          "block_type": "table",
+          "top": 160.0,
+          "rows": [
+            [
+              "POLICY ID",
+              "POL-ORD-003",
+              "VERSION",
+              "1.0"
+            ],
+            [
+              "STATUS",
+              "SUPERSEDED",
+              "EFFECTIVE",
+              "July 2023"
+            ],
+            [
+              "SUPERSEDED",
+              "September 2025",
+              "CONTROL ID",
+              "CTRL-REV-016"
+            ],
+            [
+              "PROCESS AREA",
+              "Order-to-Cash (O2C)",
+              "OWNER",
+              "Group Finance – Revenue Assurance"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "SUPERSEDED"
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "Historical version retained for audit trail, prior-period testing and control traceability."
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "text",
+      "char_count": 1241,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "1. Purpose"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "This policy defines approval authority levels for booking Order Intake and establishes requirements for Order Backlog"
+        },
+        {
+          "block_type": "line",
+          "top": 102,
+          "text": "monitoring."
+        },
+        {
+          "block_type": "line",
+          "top": 129,
+          "text": "2. Scope"
+        },
+        {
+          "block_type": "line",
+          "top": 156,
+          "text": "Applies to all Orders booked as Order Intake and to periodic review of Order Backlog balances."
+        },
+        {
+          "block_type": "line",
+          "top": 183,
+          "text": "3. Approval Authority Matrix"
+        },
+        {
+          "block_type": "table",
+          "top": 206.5,
+          "rows": [
+            [
+              "Order Value",
+              "Approver"
+            ],
+            [
+              "Up to $50,000",
+              "Sales Manager"
+            ],
+            [
+              "$50,001 – $250,000",
+              "Regional Finance Head"
+            ],
+            [
+              "Above $250,000",
+              "CFO"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 2
+        },
+        {
+          "block_type": "line",
+          "top": 288,
+          "text": "Approval must be documented and retained in the order file."
+        },
+        {
+          "block_type": "line",
+          "top": 318,
+          "text": "4. Order Backlog Management"
+        },
+        {
+          "block_type": "line",
+          "top": 345,
+          "text": "4.1 Review Frequency"
+        },
+        {
+          "block_type": "line",
+          "top": 366,
+          "text": "Order Backlog is reviewed on a quarterly basis by the Finance team."
+        },
+        {
+          "block_type": "line",
+          "top": 390,
+          "text": "4.2 Aging Calculation"
+        },
+        {
+          "block_type": "line",
+          "top": 408,
+          "text": "Aging (Days) = Current Date - Original Order Booking Date"
+        },
+        {
+          "block_type": "line",
+          "top": 432,
+          "text": "4.3 Flagging Criteria"
+        },
+        {
+          "block_type": "line",
+          "top": 453,
+          "text": "Backlog items shall be flagged for review when:"
+        },
+        {
+          "block_type": "line",
+          "top": 474,
+          "text": "- Aging (Days) > 365 days (12 months), AND"
+        },
+        {
+          "block_type": "line",
+          "top": 492,
+          "text": "- No delivery milestone has been recorded in the system"
+        },
+        {
+          "block_type": "line",
+          "top": 507,
+          "text": "Flagged items require Finance Manager review to determine whether continued recognition remains appropriate."
+        },
+        {
+          "block_type": "line",
+          "top": 537,
+          "text": "5. Roles and Responsibilities"
+        },
+        {
+          "block_type": "table",
+          "top": 559.0,
+          "rows": [
+            [
+              "Role",
+              "Responsibility"
+            ],
+            [
+              "Sales Manager",
+              "Approves orders up to $50,000"
+            ],
+            [
+              "Regional Finance Head",
+              "Approves orders $50,001–$250,000"
+            ],
+            [
+              "CFO",
+              "Approves orders above $250,000"
+            ],
+            [
+              "Finance Team",
+              "Performs quarterly Backlog review"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 2
+        },
+        {
+          "block_type": "line",
+          "top": 675,
+          "text": "6. Related Policies"
+        },
+        {
+          "block_type": "line",
+          "top": 702,
+          "text": "- POL-ORD-001: Order Intake Recognition & Measurement Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "text",
+      "char_count": 244,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "- POL-ORD-002: Order Intake Value & SSP Allocation Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 93,
+          "text": "7. Revision History"
+        },
+        {
+          "block_type": "table",
+          "top": 117.0,
+          "rows": [
+            [
+              "Version",
+              "Date",
+              "Summary of Change"
+            ],
+            [
+              "1.0",
+              "Jul 2023",
+              "Initial policy issuance"
+            ]
+          ],
+          "n_rows": 2,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 174,
+          "text": "CONTROLLED DOCUMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 198,
+          "text": "POL-ORD-003 | VERSION 1.0 | SUPERSEDED"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+        }
+      ]
+    }
+  ]
+}

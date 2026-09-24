@@ -1,0 +1,21 @@
+{
+  "doc_type": "work_paper",
+  "policy_id": "WP-ORD-002",
+  "version": null,
+  "status": "CLOSED",
+  "effective_date": null,
+  "superseded_date": "2025-06",
+  "control_id": "CTRL-REV-015",
+  "process_area": "Order-to-Cash (O2C)",
+  "owner": null,
+  "change_basis": null,
+  "audit_cycle": "FY2025 Q1",
+  "date_prepared": "2025-02",
+  "prepared_by": "Internal Audit Team",
+  "tests_policy_id": "POL-ORD-002",
+  "tests_policy_version": "1.0",
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Feb2025.pdf",
+  "parsed_json_path": "data\\parsed\\WP-ORD-Feb2025.json",
+  "doc_id": "WP-ORD-002",
+  "tests_policy_doc_id": "POL-ORD-002_v1.0"
+}

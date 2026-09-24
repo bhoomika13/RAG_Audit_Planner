@@ -1,0 +1,46 @@
+{
+  "benchmark_policy": {
+    "policy_id": "POL-ORD-001",
+    "doc_id": "POL-ORD-001_v2.0",
+    "version": "2.0",
+    "effective_date": "2025-01",
+    "control_id": "CTRL-REV-014",
+    "process_area": "Order-to-Cash (O2C)"
+  },
+  "prior_work_papers_found": [
+    {
+      "doc_id": "WP-ORD-001",
+      "audit_cycle": "FY2024 Q4",
+      "date_prepared": "2024-11",
+      "tested_version": "1.0"
+    }
+  ],
+  "version_gap": true,
+  "audit_steps": [
+    {
+      "status": "kept",
+      "description": "Verify existence of valid PO for sampled orders",
+      "reason": "Still required by Section 5.1 of policy v2.0 and KRI-001; no evidence of policy change affecting this step."
+    },
+    {
+      "status": "updated",
+      "description": "Confirm customer commitment evidenced by signed PO and secondary commitment document if required",
+      "reason": "Prior exception rate (13.3%) and recommendation to introduce a secondary commitment document require expanding this step; policy clause 5.2 still applies."
+    },
+    {
+      "status": "updated",
+      "description": "Review credit rating classification, payment history, country risk, and Finance Manager sign-off for orders below B rating",
+      "reason": "Prior exception (16.7%) and recommendation to enhance credit risk assessment beyond single-factor rating; KRI-003 and policy clause 5.3.2 still apply."
+    },
+    {
+      "status": "kept",
+      "description": "Confirm booking date aligns with PO receipt date",
+      "reason": "No policy change or KRI/prior finding affecting this step; clause 5.4 still applies."
+    },
+    {
+      "status": "new",
+      "description": "Verify system-based sign-off workflow is in place and used for all required approvals",
+      "reason": "New step required per prior recommendation to formalize system-based sign-off and eliminate verbal approval gaps; supports compliance with policy clause 5.3.2."
+    }
+  ]
+}

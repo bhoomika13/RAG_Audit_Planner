@@ -1,0 +1,423 @@
+{
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Nov2024.pdf",
+  "parsed_at": "2026-09-23T09:11:17.254170+00:00",
+  "num_pages": 3,
+  "ocr_engine_available": false,
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "text",
+      "char_count": 471,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "CFO POLICY FRAMEWORK"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "ORDER INTAKE RECOGNITION —"
+        },
+        {
+          "block_type": "line",
+          "top": 111,
+          "text": "PRIOR AUDIT PLAN & TESTING SUMMARY"
+        },
+        {
+          "block_type": "line",
+          "top": 135,
+          "text": "Prior Audit Planner Output"
+        },
+        {
+          "block_type": "table",
+          "top": 160.0,
+          "rows": [
+            [
+              "WORK PAPER ID",
+              "WP-ORD-001",
+              "AUDIT CYCLE",
+              "FY2024 Q4"
+            ],
+            [
+              "DATE PREPARED",
+              "November 2024",
+              "POLICY TESTED",
+              "POL-ORD-001 v1.0"
+            ],
+            [
+              "CONTROL ID",
+              "CTRL-REV-014",
+              "PROCESS AREA",
+              "Order-to-Cash (O2C)"
+            ],
+            [
+              "PREPARED BY",
+              "Internal Audit Team",
+              "STATUS",
+              "CLOSED — superseded Jan 2025"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "SUPERSEDED"
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "Historical version retained for audit trail, prior-period testing and control traceability."
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "text",
+      "char_count": 1839,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "1. Audit Objective"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "To assess whether Order Intake was recognized and measured in accordance with POL-ORD-001 v1.0, and to"
+        },
+        {
+          "block_type": "line",
+          "top": 102,
+          "text": "evaluate the design and operating effectiveness of related controls (CTRL-REV-014)."
+        },
+        {
+          "block_type": "line",
+          "top": 129,
+          "text": "2. Background and Scope"
+        },
+        {
+          "block_type": "line",
+          "top": 156,
+          "text": "This audit plan was developed for the FY2024 Q4 audit cycle, covering Order Intake transactions booked between"
+        },
+        {
+          "block_type": "line",
+          "top": 168,
+          "text": "July 2024 and October 2024. Scope includes:"
+        },
+        {
+          "block_type": "line",
+          "top": 189,
+          "text": "- Hardware/Software orders"
+        },
+        {
+          "block_type": "line",
+          "top": 207,
+          "text": "- Standalone Services orders"
+        },
+        {
+          "block_type": "line",
+          "top": 222,
+          "text": "- Bundled multi-element arrangements"
+        },
+        {
+          "block_type": "line",
+          "top": 255,
+          "text": "3. Key Risk Indicators (KRIs)"
+        },
+        {
+          "block_type": "table",
+          "top": 277.0,
+          "rows": [
+            [
+              "KRI ID",
+              "KRI Description",
+              "Related Policy Clause",
+              "Risk Rating"
+            ],
+            [
+              "KRI-001",
+              "Orders recognized without valid PO or contract",
+              "Section 5.1",
+              "High"
+            ],
+            [
+              "KRI-002",
+              "Orders booked based on PO only, without countersigned contra",
+              "ctSection 5.2",
+              "Medium"
+            ],
+            [
+              "KRI-003",
+              "Orders from low credit-rated customers booked without required",
+              "sSigenc-toioffn 5.3.2",
+              "High"
+            ],
+            [
+              "KRI-004",
+              "Order Intake booked prior to satisfying timing criteria",
+              "Section 5.4",
+              "Medium"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 393,
+          "text": "4. Audit Planning Steps"
+        },
+        {
+          "block_type": "line",
+          "top": 420,
+          "text": "4.1 Step Mapping to Policy Clauses"
+        },
+        {
+          "block_type": "table",
+          "top": 440.0,
+          "rows": [
+            [
+              "Step #",
+              "Audit Step Description",
+              "Policy Clause Tested",
+              "Related KRI"
+            ],
+            [
+              "1",
+              "Verify existence of valid PO for sampled orders",
+              "5.1",
+              "KRI-001"
+            ],
+            [
+              "2",
+              "Confirm customer commitment evidenced by signed PO",
+              "5.2",
+              "KRI-002"
+            ],
+            [
+              "3",
+              "Review credit rating classification and Finance Manager sign-off for orde",
+              "rs5 .r3a.t1e,d 5 b.3e.l2ow B",
+              "KRI-003"
+            ],
+            [
+              "4",
+              "Confirm booking date aligns with PO receipt date",
+              "5.4",
+              "KRI-004"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 552,
+          "text": "4.2 Sample Selection Approach"
+        },
+        {
+          "block_type": "line",
+          "top": 573,
+          "text": "- Population: All orders booked Jul–Oct 2024 (n = 342)"
+        },
+        {
+          "block_type": "line",
+          "top": 591,
+          "text": "- Sample size: 15 orders, judgmentally selected across 3 regions"
+        },
+        {
+          "block_type": "line",
+          "top": 609,
+          "text": "- Stratification: Weighted toward orders >$50,000 and customers rated below B"
+        },
+        {
+          "block_type": "line",
+          "top": 639,
+          "text": "5. Testing Procedures Performed"
+        },
+        {
+          "block_type": "line",
+          "top": 666,
+          "text": "- Inspected PO documentation for existence and completeness"
+        },
+        {
+          "block_type": "line",
+          "top": 681,
+          "text": "- Traced credit rating classification to Group Credit Risk system"
+        },
+        {
+          "block_type": "line",
+          "top": 699,
+          "text": "- Recalculated booking date against PO receipt date per Section 5.4"
+        },
+        {
+          "block_type": "line",
+          "top": 717,
+          "text": "- Verified Finance Manager sign-off where credit rating below B"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "text",
+      "char_count": 1205,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "6. Findings Summary"
+        },
+        {
+          "block_type": "table",
+          "top": 86.0,
+          "rows": [
+            [
+              "Step #",
+              "Sample Size",
+              "Exceptions Noted",
+              "Exception Rate"
+            ],
+            [
+              "1",
+              "15",
+              "0",
+              "0%"
+            ],
+            [
+              "2",
+              "15",
+              "2",
+              "13.3%"
+            ],
+            [
+              "3",
+              "6",
+              "1",
+              "16.7%"
+            ],
+            [
+              "4",
+              "15",
+              "0",
+              "0%"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 189,
+          "text": "Step 2: 2 orders were booked using PO only; no countersigned contract was on file at time of booking. This was"
+        },
+        {
+          "block_type": "line",
+          "top": 201,
+          "text": "compliant under v1.0 but flagged as a forward-looking risk given dual-document practice trends."
+        },
+        {
+          "block_type": "line",
+          "top": 222,
+          "text": "Step 3: 1 order from a customer rated C was booked without documented Finance Manager sign-off. Root cause:"
+        },
+        {
+          "block_type": "line",
+          "top": 234,
+          "text": "sign-off obtained verbally, not recorded in system."
+        },
+        {
+          "block_type": "line",
+          "top": 264,
+          "text": "7. Prior Period Recommendations"
+        },
+        {
+          "block_type": "line",
+          "top": 288,
+          "text": "- Introduce a secondary commitment document requirement beyond PO alone"
+        },
+        {
+          "block_type": "line",
+          "top": 306,
+          "text": "- Enhance credit risk assessment beyond single-factor credit rating to include payment history and country risk"
+        },
+        {
+          "block_type": "line",
+          "top": 324,
+          "text": "- Formalize system-based sign-off workflow to eliminate verbal approval gaps"
+        },
+        {
+          "block_type": "line",
+          "top": 354,
+          "text": "8. Forward-Looking Note for Next Cycle"
+        },
+        {
+          "block_type": "line",
+          "top": 378,
+          "text": "Group Finance indicated a policy update to POL-ORD-001 was planned for Q1 2025, expected to address the"
+        },
+        {
+          "block_type": "line",
+          "top": 393,
+          "text": "recommendations above. The next audit cycle should re-baseline testing against the updated policy and re-assess"
+        },
+        {
+          "block_type": "line",
+          "top": 405,
+          "text": "KRI-002 and KRI-003 risk ratings."
+        },
+        {
+          "block_type": "line",
+          "top": 435,
+          "text": "9. Revision History"
+        },
+        {
+          "block_type": "table",
+          "top": 457.5,
+          "rows": [
+            [
+              "Version",
+              "Date",
+              "Summary of Change"
+            ],
+            [
+              "1.0",
+              "Nov 2024",
+              "Initial work paper issuance"
+            ]
+          ],
+          "n_rows": 2,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 516,
+          "text": "CLOSED WORK PAPER"
+        },
+        {
+          "block_type": "line",
+          "top": 540,
+          "text": "WP-ORD-001 | FY2024 Q4"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+        }
+      ]
+    }
+  ]
+}

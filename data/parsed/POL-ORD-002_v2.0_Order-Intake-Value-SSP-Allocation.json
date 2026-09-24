@@ -1,0 +1,417 @@
+{
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v2.0_Order-Intake-Value-SSP-Allocation.pdf",
+  "parsed_at": "2026-09-23T09:11:16.409177+00:00",
+  "num_pages": 3,
+  "ocr_engine_available": false,
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "text",
+      "char_count": 447,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "CFO POLICY FRAMEWORK"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "ORDER INTAKE VALUE & SSP"
+        },
+        {
+          "block_type": "line",
+          "top": 111,
+          "text": "ALLOCATION"
+        },
+        {
+          "block_type": "line",
+          "top": 135,
+          "text": "Policy & Control Standard"
+        },
+        {
+          "block_type": "table",
+          "top": 160.0,
+          "rows": [
+            [
+              "POLICY ID",
+              "POL-ORD-002",
+              "VERSION",
+              "2.0"
+            ],
+            [
+              "STATUS",
+              "ACTIVE / IN FORCE",
+              "EFFECTIVE",
+              "June 2025"
+            ],
+            [
+              "CONTROL ID",
+              "CTRL-REV-015",
+              "PROCESS AREA",
+              "Order-to-Cash (O2C)"
+            ],
+            [
+              "OWNER",
+              "Group Finance – Revenue Assurance",
+              "CHANGE BASIS",
+              "Q1 2025 internal audit recommendatio"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "ACTIVE / IN FORCE"
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "Current controlled version. Use this version for current audit planning and control testing."
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "text",
+      "char_count": 1735,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "1. Purpose"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "This policy defines the methodology used to measure the value of Order Intake for multi-element arrangements. This"
+        },
+        {
+          "block_type": "line",
+          "top": 102,
+          "text": "version supersedes v1.0 and introduces a weighted allocation methodology following Q1 2025 internal audit"
+        },
+        {
+          "block_type": "line",
+          "top": 114,
+          "text": "recommendations."
+        },
+        {
+          "block_type": "line",
+          "top": 144,
+          "text": "2. Scope"
+        },
+        {
+          "block_type": "line",
+          "top": 168,
+          "text": "Applies to all multi-element customer arrangements combining:"
+        },
+        {
+          "block_type": "line",
+          "top": 189,
+          "text": "- Hardware/Software (HW/SW) deliverables, AND"
+        },
+        {
+          "block_type": "line",
+          "top": 207,
+          "text": "- Services deliverables"
+        },
+        {
+          "block_type": "line",
+          "top": 237,
+          "text": "3. Definitions"
+        },
+        {
+          "block_type": "line",
+          "top": 261,
+          "text": "Standalone Selling Price (SSP): The price at which the Company would sell a deliverable separately under similar"
+        },
+        {
+          "block_type": "line",
+          "top": 276,
+          "text": "circumstances."
+        },
+        {
+          "block_type": "line",
+          "top": 294,
+          "text": "Weighted Factor: An adjustment factor applied per deliverable category to reflect margin and risk differences,"
+        },
+        {
+          "block_type": "line",
+          "top": 309,
+          "text": "determined annually by the Pricing Committee."
+        },
+        {
+          "block_type": "line",
+          "top": 336,
+          "text": "4. Roles and Responsibilities"
+        },
+        {
+          "block_type": "table",
+          "top": 360.0,
+          "rows": [
+            [
+              "Role",
+              "Responsibility"
+            ],
+            [
+              "Deal Desk",
+              "Prepares Relative SSP allocation calculations"
+            ],
+            [
+              "Regional Finance Head",
+              "Reviews allocations exceeding threshold (elevated from Finance Manager)"
+            ],
+            [
+              "Pricing Committee",
+              "Determines annual Weighted Factors"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 2
+        },
+        {
+          "block_type": "line",
+          "top": 456,
+          "text": "5. SSP Allocation Methodology"
+        },
+        {
+          "block_type": "line",
+          "top": 483,
+          "text": "5.1 Calculation Basis"
+        },
+        {
+          "block_type": "line",
+          "top": 504,
+          "text": "Allocation is performed using the Relative SSP method, under which a Weighted Factor is applied per deliverable"
+        },
+        {
+          "block_type": "line",
+          "top": 519,
+          "text": "category. This replaces the unweighted Standalone List Price method used in v1.0."
+        },
+        {
+          "block_type": "line",
+          "top": 543,
+          "text": "5.2 Weighted Factor Determination"
+        },
+        {
+          "block_type": "line",
+          "top": 564,
+          "text": "The Weighted Factor is determined annually by the Pricing Committee based on:"
+        },
+        {
+          "block_type": "line",
+          "top": 582,
+          "text": "- Historical margin performance by deliverable category"
+        },
+        {
+          "block_type": "line",
+          "top": 600,
+          "text": "- Delivery risk profile"
+        },
+        {
+          "block_type": "line",
+          "top": 618,
+          "text": "- Market comparables"
+        },
+        {
+          "block_type": "line",
+          "top": 645,
+          "text": "5.3 Allocation Formula"
+        },
+        {
+          "block_type": "line",
+          "top": 663,
+          "text": "Step 1 — Relative SSP: Relative SSP = SSP × Weighted Factor"
+        },
+        {
+          "block_type": "line",
+          "top": 684,
+          "text": "Step 2 — SSP Allocation: SSP Allocation = (Relative SSP ÷ Total Relative SSP) × Total Contract Value"
+        },
+        {
+          "block_type": "line",
+          "top": 702,
+          "text": "Step 3 — Variance Check: SSP % from Contract Value = (SSP Allocation - Proportional Contract Value) ÷"
+        },
+        {
+          "block_type": "line",
+          "top": 717,
+          "text": "Proportional Contract Value × 100"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "text",
+      "char_count": 1075,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "6. Sample Allocation Illustration"
+        },
+        {
+          "block_type": "table",
+          "top": 86.0,
+          "rows": [
+            [
+              "Deliverable",
+              "Contract Value",
+              "SSP",
+              "Weighted Factor",
+              "Relative SSP",
+              "SSP Allocation",
+              "SSP % from Contra"
+            ],
+            [
+              "HW/SW",
+              "30",
+              "30",
+              "75.0%",
+              "23.25",
+              "-6.75",
+              "-22.5%"
+            ],
+            [
+              "Services",
+              "1",
+              "10",
+              "25.0%",
+              "7.75",
+              "6.75",
+              "675.0%"
+            ],
+            [
+              "Total",
+              "31",
+              "40",
+              "100.0%",
+              "31.00",
+              "",
+              ""
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 7
+        },
+        {
+          "block_type": "line",
+          "top": 93,
+          "text": "Value"
+        },
+        {
+          "block_type": "line",
+          "top": 168,
+          "text": "Note: Figures are illustrative and demonstrate the mechanics of Weighted Factor application; actual Weighted"
+        },
+        {
+          "block_type": "line",
+          "top": 180,
+          "text": "Factors are published annually by the Pricing Committee."
+        },
+        {
+          "block_type": "line",
+          "top": 210,
+          "text": "7. Approval Requirements"
+        },
+        {
+          "block_type": "line",
+          "top": 234,
+          "text": "Allocations resulting in variance greater than 10% from Relative SSP require Regional Finance Head sign-off prior to"
+        },
+        {
+          "block_type": "line",
+          "top": 249,
+          "text": "booking."
+        },
+        {
+          "block_type": "line",
+          "top": 273,
+          "text": "CONTROL ENHANCEMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 297,
+          "text": "Threshold reduced from 20% to 10%; approval authority elevated from Finance Manager to Regional Finance"
+        },
+        {
+          "block_type": "line",
+          "top": 309,
+          "text": "Head."
+        },
+        {
+          "block_type": "line",
+          "top": 342,
+          "text": "8. Related Policies"
+        },
+        {
+          "block_type": "line",
+          "top": 369,
+          "text": "- POL-ORD-001: Order Intake Recognition & Measurement Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 387,
+          "text": "- POL-ORD-003: Order Intake Approval & Backlog Management Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 417,
+          "text": "9. Revision History"
+        },
+        {
+          "block_type": "table",
+          "top": 440.0,
+          "rows": [
+            [
+              "Version",
+              "Date",
+              "Summary of Change"
+            ],
+            [
+              "1.0",
+              "Mar 2023",
+              "Initial policy issuance"
+            ],
+            [
+              "2.0",
+              "Jun 2025",
+              "Relative SSP method with Weighted Factor; reduced approval variance threshold to 10%"
+            ]
+          ],
+          "n_rows": 3,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 519,
+          "text": "CONTROLLED DOCUMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 543,
+          "text": "POL-ORD-002 | VERSION 2.0 | ACTIVE / IN FORCE"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+        }
+      ]
+    }
+  ]
+}

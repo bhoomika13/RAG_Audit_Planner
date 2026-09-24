@@ -1,0 +1,114 @@
+[
+  {
+    "policy_id": "POL-ORD-001",
+    "active_doc_id": "POL-ORD-001_v2.0",
+    "active_version": "2.0",
+    "control_id": "CTRL-REV-014",
+    "process_area": "Order-to-Cash (O2C)",
+    "owner": "Group Finance – Revenue Assurance",
+    "prior_work_doc_id": "WP-ORD-001",
+    "prior_tested_version": "1.0",
+    "prior_audit_cycle": "FY2024 Q4",
+    "version_gap": true,
+    "priority": "High",
+    "objective": "Policy changed since last audit (tested v1.0 -> now v2.0). Re-baseline testing against POL-ORD-001_v2.0 and re-assess prior high-risk KRIs.",
+    "open_high_risk_kris": [
+      {
+        "kri_id": "KRI-001",
+        "description": "Orders recognized without valid PO or contract",
+        "clause": "Section 5.1"
+      },
+      {
+        "kri_id": "KRI-003",
+        "description": "Orders from low credit-rated customers booked without required",
+        "clause": "sSigenc-toioffn 5.3.2"
+      }
+    ],
+    "exception_findings": [
+      {
+        "step": "2",
+        "sample_size": "15",
+        "exceptions": "2",
+        "rate": "13.3%"
+      },
+      {
+        "step": "3",
+        "sample_size": "6",
+        "exceptions": "1",
+        "rate": "16.7%"
+      }
+    ],
+    "carried_forward_recommendations": [
+      "Introduce a secondary commitment document requirement beyond PO alone",
+      "Enhance credit risk assessment beyond single-factor credit rating to include payment history and country risk",
+      "Formalize system-based sign-off workflow to eliminate verbal approval gaps"
+    ],
+    "evidence_chunk_ids": [
+      "WP-ORD-001_p2_c1",
+      "WP-ORD-001_p3_c1",
+      "WP-ORD-001_p3_c2"
+    ]
+  },
+  {
+    "policy_id": "POL-ORD-002",
+    "active_doc_id": "POL-ORD-002_v2.0",
+    "active_version": "2.0",
+    "control_id": "CTRL-REV-015",
+    "process_area": "Order-to-Cash (O2C)",
+    "owner": "Group Finance – Revenue Assurance",
+    "prior_work_doc_id": "WP-ORD-002",
+    "prior_tested_version": "1.0",
+    "prior_audit_cycle": "FY2025 Q1",
+    "version_gap": true,
+    "priority": "High",
+    "objective": "Policy changed since last audit (tested v1.0 -> now v2.0). Re-baseline testing against POL-ORD-002_v2.0 and re-assess prior high-risk KRIs.",
+    "open_high_risk_kris": [
+      {
+        "kri_id": "KRI-005",
+        "description": "SSP allocation not recalculated using approved list price method",
+        "clause": "Section 5.1, 5.2"
+      },
+      {
+        "kri_id": "KRI-006",
+        "description": "Allocation variance &gt;20% booked without Finance Manager sig",
+        "clause": "n-Soeffction 7"
+      }
+    ],
+    "exception_findings": [],
+    "carried_forward_recommendations": [
+      "Transition from unweighted Standalone List Price to a weighted allocation approach",
+      "Lower the sign-off variance threshold from 20% to a more conservative level",
+      "Implement system-enforced sign-off workflow"
+    ],
+    "evidence_chunk_ids": [
+      "WP-ORD-002_p2_c1",
+      "WP-ORD-002_p3_c1"
+    ]
+  },
+  {
+    "policy_id": "POL-ORD-003",
+    "active_doc_id": "POL-ORD-003_v2.0",
+    "active_version": "2.0",
+    "control_id": "CTRL-REV-016",
+    "process_area": "Order-to-Cash (O2C)",
+    "owner": "Group Finance – Revenue Assurance",
+    "prior_work_doc_id": "WP-ORD-003",
+    "prior_tested_version": "1.0",
+    "prior_audit_cycle": "FY2025 Q2",
+    "version_gap": true,
+    "priority": "High",
+    "objective": "Policy changed since last audit (tested v1.0 -> now v2.0). Re-baseline testing against POL-ORD-003_v2.0 and re-assess prior high-risk KRIs.",
+    "open_high_risk_kris": [
+      {
+        "kri_id": "KRI-008",
+        "description": "Orders approved by incorrect authority level relative to value",
+        "clause": "Section 3"
+      }
+    ],
+    "exception_findings": [],
+    "carried_forward_recommendations": [],
+    "evidence_chunk_ids": [
+      "WP-ORD-003_p2_c1"
+    ]
+  }
+]

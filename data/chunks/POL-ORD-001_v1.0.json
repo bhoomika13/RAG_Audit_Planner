@@ -1,0 +1,452 @@
+[
+  {
+    "page_content": "CFO POLICY FRAMEWORK\nORDER INTAKE\nRECOGNITION & MEASUREMENT\nPolicy & Control Standard",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 1,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 0,
+      "chunk_id": "POL-ORD-001_v1.0_p1_c0",
+      "char_count": 85
+    }
+  },
+  {
+    "page_content": "POLICY ID | POL-ORD-001 | VERSION | 1.0\nSTATUS | SUPERSEDED | EFFECTIVE | January 2023\nSUPERSEDED | January 2025 | CONTROL ID | CTRL-REV-014\nPROCESS AREA | Order-to-Cash (O2C) | OWNER | Group Finance – Revenue Assurance",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 1,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 1,
+      "n_rows": 4,
+      "n_cols": 4,
+      "table_rows": [
+        [
+          "POLICY ID",
+          "POL-ORD-001",
+          "VERSION",
+          "1.0"
+        ],
+        [
+          "STATUS",
+          "SUPERSEDED",
+          "EFFECTIVE",
+          "January 2023"
+        ],
+        [
+          "SUPERSEDED",
+          "January 2025",
+          "CONTROL ID",
+          "CTRL-REV-014"
+        ],
+        [
+          "PROCESS AREA",
+          "Order-to-Cash (O2C)",
+          "OWNER",
+          "Group Finance – Revenue Assurance"
+        ]
+      ],
+      "chunk_id": "POL-ORD-001_v1.0_p1_c1",
+      "char_count": 219
+    }
+  },
+  {
+    "page_content": "DOCUMENT STATUS\nThis policy is superseded effective January 2025. It is retained for historical reference and control traceability.\nControlled Document\nFor internal finance, revenue assurance, audit and control-reference purposes.\nCFO POLICY FRAMEWORK | POL-ORD-001 Page 1",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 1,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 2,
+      "chunk_id": "POL-ORD-001_v1.0_p1_c2",
+      "char_count": 272
+    }
+  },
+  {
+    "page_content": "1. Purpose\nThis policy establishes the principles, criteria, and controls governing the recognition and measurement of Order\nIntake across the Company.\n2. Scope\nThis policy applies to all business units, regions, and legal entities that generate, process, or record customer orders\nunder the Order-to-Cash (O2C) cycle, including:\n- Hardware and Software arrangements\n- Standalone Services arrangements\n- Bundled multi-element arrangements\n3. Definitions\n3.1 Order\nA binding agreement between the Company and a customer under which the Company commits to deliver goods\nand/or services in exchange for consideration.\n3.2 Order Backlog\nThe cumulative value of Orders recognized as Order Intake but not yet delivered, fulfilled, or recognized as revenue.\n4. Roles and Responsibilities",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 0,
+      "chunk_id": "POL-ORD-001_v1.0_p2_c0",
+      "char_count": 780
+    }
+  },
+  {
+    "page_content": "Role | Responsibility\nSales Operations | Order capture and documentation collection\nFinance Business Partners | Recognition criteria review\nFinance Manager | Credit risk sign-off (see 5.3)\nGroup Finance (Revenue Assurance) | Policy ownership and testing",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 1,
+      "n_rows": 5,
+      "n_cols": 2,
+      "table_rows": [
+        [
+          "Role",
+          "Responsibility"
+        ],
+        [
+          "Sales Operations",
+          "Order capture and documentation collection"
+        ],
+        [
+          "Finance Business Partners",
+          "Recognition criteria review"
+        ],
+        [
+          "Finance Manager",
+          "Credit risk sign-off (see 5.3)"
+        ],
+        [
+          "Group Finance (Revenue Assurance)",
+          "Policy ownership and testing"
+        ]
+      ],
+      "chunk_id": "POL-ORD-001_v1.0_p2_c1",
+      "char_count": 253
+    }
+  },
+  {
+    "page_content": "5. Order Intake Recognition and Measurement\n5.1 Recognition Criteria for Order Intake\nAn order shall be recognized as Order Intake when:\n- a) A legally binding contract or Purchase Order (PO) exists, AND\n- b) The order value can be reliably measured.\nOrders not meeting both (a) and (b) shall remain in the sales pipeline and shall not be recorded as Order Intake.\n5.2 Customer Commitment\nCustomer commitment is evidenced by receipt of a signed Purchase Order alone. A countersigned contract is\npreferred but not mandatory, provided the PO specifies:\n- Price\nCFO POLICY FRAMEWORK | POL-ORD-001 Page 2",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 2,
+      "chunk_id": "POL-ORD-001_v1.0_p2_c2",
+      "char_count": 600
+    }
+  },
+  {
+    "page_content": "- Quantity\n- Delivery terms\n5.3 Collectability Assessment\n5.3.1 Assessment Basis\nCollectability is assessed based solely on the customer's credit rating at time of order receipt, as classified below:",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 0,
+      "chunk_id": "POL-ORD-001_v1.0_p3_c0",
+      "char_count": 199
+    }
+  },
+  {
+    "page_content": "Credit Rating | Risk Classification | Action Required\nA | Low Risk | None\nB | Medium Risk | Standard booking\nBelow B | High Risk | Finance Manager review",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 1,
+      "n_rows": 4,
+      "n_cols": 3,
+      "table_rows": [
+        [
+          "Credit Rating",
+          "Risk Classification",
+          "Action Required"
+        ],
+        [
+          "A",
+          "Low Risk",
+          "None"
+        ],
+        [
+          "B",
+          "Medium Risk",
+          "Standard booking"
+        ],
+        [
+          "Below B",
+          "High Risk",
+          "Finance Manager review"
+        ]
+      ],
+      "chunk_id": "POL-ORD-001_v1.0_p3_c1",
+      "char_count": 153
+    }
+  },
+  {
+    "page_content": "5.3.2 Escalation Requirements\nOrders from customers rated below \"B\" require Finance Manager sign-off prior to booking. No additional escalation is\nrequired regardless of order value.\n5.4 Timing for Booking of Order Intake\nOrder Intake shall be booked immediately upon receipt of a valid Purchase Order, regardless of contract signature\nstatus. This approach prioritizes:\n- Timeliness of reporting, over\n- Administrative completeness of documentation\nCONTROL PRINCIPLE\nA valid Purchase Order is the primary trigger for Order Intake booking, subject to the recognition criteria and\ncollectability requirements defined above.\n6. Order Intake Approvals\nRefer to POL-ORD-003 (Order Intake Approval & Backlog Management Policy) for the applicable delegation of\nauthority matrix.",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 2,
+      "chunk_id": "POL-ORD-001_v1.0_p3_c2",
+      "char_count": 772
+    }
+  },
+  {
+    "page_content": "authority matrix.\n7. Exceptions and Escalation\nDeviations from this policy require Finance Manager approval, with escalation to Group Finance for exceptions\nexceeding $100,000 in order value.\n8. Related Policies\n- POL-ORD-002: Order Intake Value & SSP Allocation Policy\n- POL-ORD-003: Order Intake Approval & Backlog Management Policy\n9. Revision History\nCFO POLICY FRAMEWORK | POL-ORD-001 Page 3",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 3,
+      "chunk_id": "POL-ORD-001_v1.0_p3_c3",
+      "char_count": 396
+    }
+  },
+  {
+    "page_content": "Version | Date | Summary of Change\n1.0 | Jan 2023 | Initial policy issuance",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 4,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 0,
+      "n_rows": 2,
+      "n_cols": 3,
+      "table_rows": [
+        [
+          "Version",
+          "Date",
+          "Summary of Change"
+        ],
+        [
+          "1.0",
+          "Jan 2023",
+          "Initial policy issuance"
+        ]
+      ],
+      "chunk_id": "POL-ORD-001_v1.0_p4_c0",
+      "char_count": 75
+    }
+  },
+  {
+    "page_content": "END OF CONTROLLED DOCUMENT\nPolicy ID: POL-ORD-001 | Version: 1.0 | Status: Superseded\nCFO POLICY FRAMEWORK | POL-ORD-001 Page 4",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+      "page_number": 4,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-001_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-001",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-014",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-01",
+      "superseded_date": "2025-01",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-001_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 1,
+      "chunk_id": "POL-ORD-001_v1.0_p4_c1",
+      "char_count": 127
+    }
+  }
+]

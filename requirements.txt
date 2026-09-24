@@ -1,0 +1,13 @@
+reportlab
+pdfplumber
+pymupdf
+pytesseract
+Pillow
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+chromadb
+langchain-openai
+python-dotenv

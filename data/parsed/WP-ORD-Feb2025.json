@@ -1,0 +1,407 @@
+{
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Feb2025.pdf",
+  "parsed_at": "2026-09-23T09:11:16.850674+00:00",
+  "num_pages": 3,
+  "ocr_engine_available": false,
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "text",
+      "char_count": 474,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "CFO POLICY FRAMEWORK"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "ORDER INTAKE SSP ALLOCATION —"
+        },
+        {
+          "block_type": "line",
+          "top": 111,
+          "text": "PRIOR AUDIT PLAN & TESTING SUMMARY"
+        },
+        {
+          "block_type": "line",
+          "top": 135,
+          "text": "Prior Audit Planner Output"
+        },
+        {
+          "block_type": "table",
+          "top": 160.0,
+          "rows": [
+            [
+              "WORK PAPER ID",
+              "WP-ORD-002",
+              "AUDIT CYCLE",
+              "FY2025 Q1"
+            ],
+            [
+              "DATE PREPARED",
+              "February 2025",
+              "POLICY TESTED",
+              "POL-ORD-002 v1.0"
+            ],
+            [
+              "CONTROL ID",
+              "CTRL-REV-015",
+              "PROCESS AREA",
+              "Order-to-Cash (O2C)"
+            ],
+            [
+              "PREPARED BY",
+              "Internal Audit Team",
+              "STATUS",
+              "CLOSED — superseded Jun 2025"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "SUPERSEDED"
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "Historical version retained for audit trail, prior-period testing and control traceability."
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "text",
+      "char_count": 1665,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "1. Audit Objective"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "To assess whether SSP allocation for multi-element Order Intake arrangements was performed in accordance with"
+        },
+        {
+          "block_type": "line",
+          "top": 102,
+          "text": "POL-ORD-002 v1.0 (Standalone List Price method), and to evaluate control CTRL-REV-015."
+        },
+        {
+          "block_type": "line",
+          "top": 129,
+          "text": "2. Background and Scope"
+        },
+        {
+          "block_type": "line",
+          "top": 156,
+          "text": "This audit plan covers multi-element contracts (HW/SW + Services) booked as Order Intake between October 2024"
+        },
+        {
+          "block_type": "line",
+          "top": 168,
+          "text": "and January 2025."
+        },
+        {
+          "block_type": "line",
+          "top": 198,
+          "text": "3. Key Risk Indicators (KRIs)"
+        },
+        {
+          "block_type": "table",
+          "top": 220.0,
+          "rows": [
+            [
+              "KRI ID",
+              "KRI Description",
+              "Related Policy Clause",
+              "Risk Rating"
+            ],
+            [
+              "KRI-005",
+              "SSP allocation not recalculated using approved list price method",
+              "Section 5.1, 5.2",
+              "High"
+            ],
+            [
+              "KRI-006",
+              "Allocation variance &gt;20% booked without Finance Manager sig",
+              "n-Soeffction 7",
+              "High"
+            ],
+            [
+              "KRI-007",
+              "Incorrect deliverable categorization (HW/SW vs Services)",
+              "Section 2",
+              "Medium"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 318,
+          "text": "4. Audit Planning Steps"
+        },
+        {
+          "block_type": "line",
+          "top": 345,
+          "text": "4.1 Step Mapping to Policy Clauses"
+        },
+        {
+          "block_type": "table",
+          "top": 363.0,
+          "rows": [
+            [
+              "Step #",
+              "Audit Step Description",
+              "Policy Clause Tested",
+              "Related KRI"
+            ],
+            [
+              "1",
+              "Recalculate SSP allocation using Standalone List Price formula",
+              "5.2",
+              "KRI-005"
+            ],
+            [
+              "2",
+              "Compare recalculated allocation to booked system values",
+              "5.2, 6",
+              "KRI-005"
+            ],
+            [
+              "3",
+              "Identify allocations with variance &gt;20% and confirm sign-off",
+              "7",
+              "KRI-006"
+            ],
+            [
+              "4",
+              "Validate deliverable categorization against contract terms",
+              "2",
+              "KRI-007"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 474,
+          "text": "4.2 Sample Selection Approach"
+        },
+        {
+          "block_type": "line",
+          "top": 498,
+          "text": "- Population: Multi-element contracts booked Oct 2024–Jan 2025 (n = 58)"
+        },
+        {
+          "block_type": "line",
+          "top": 513,
+          "text": "- Sample size: 10 contracts, judgmentally selected to include higher-value and higher-variance arrangements"
+        },
+        {
+          "block_type": "line",
+          "top": 546,
+          "text": "5. Testing Procedures Performed"
+        },
+        {
+          "block_type": "line",
+          "top": 570,
+          "text": "- Obtained standard list price catalogue from Pricing Team"
+        },
+        {
+          "block_type": "line",
+          "top": 588,
+          "text": "- Recalculated SSP allocation using the approved formula"
+        },
+        {
+          "block_type": "line",
+          "top": 606,
+          "text": "- Compared recalculated allocation to system-booked values"
+        },
+        {
+          "block_type": "line",
+          "top": 621,
+          "text": "- For variances >20%, traced to Finance Manager sign-off evidence"
+        },
+        {
+          "block_type": "line",
+          "top": 654,
+          "text": "6. Findings Summary"
+        },
+        {
+          "block_type": "line",
+          "top": 681,
+          "text": "6.1 Recalculation Results"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "text",
+      "char_count": 1173,
+      "blocks": [
+        {
+          "block_type": "table",
+          "top": 60.0,
+          "rows": [
+            [
+              "Contract ID",
+              "Deliverable",
+              "List Price",
+              "Recalculated Allocation",
+              "Booked Allocation",
+              "Variance"
+            ],
+            [
+              "C-2041",
+              "HW/SW",
+              "30",
+              "27.90",
+              "27.90",
+              "0%"
+            ],
+            [
+              "C-2041",
+              "Services",
+              "10",
+              "3.10",
+              "3.10",
+              "0%"
+            ],
+            [
+              "C-2077",
+              "HW/SW",
+              "45",
+              "38.25",
+              "31.00",
+              "-18.9%"
+            ],
+            [
+              "C-2077",
+              "Services",
+              "15",
+              "12.75",
+              "20.00",
+              "+56.9%"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 6
+        },
+        {
+          "block_type": "line",
+          "top": 162,
+          "text": "Overall: 8/10 contracts matched recalculation within tolerance; 2/10 exceeded the 20% threshold."
+        },
+        {
+          "block_type": "line",
+          "top": 180,
+          "text": "Exception: Contract C-2077 showed a 56.9% variance on Services with no documented Finance Manager sign-off,"
+        },
+        {
+          "block_type": "line",
+          "top": 195,
+          "text": "representing a control breach under Section 7."
+        },
+        {
+          "block_type": "line",
+          "top": 225,
+          "text": "7. Prior Period Recommendations"
+        },
+        {
+          "block_type": "line",
+          "top": 249,
+          "text": "- Transition from unweighted Standalone List Price to a weighted allocation approach"
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "- Lower the sign-off variance threshold from 20% to a more conservative level"
+        },
+        {
+          "block_type": "line",
+          "top": 282,
+          "text": "- Implement system-enforced sign-off workflow"
+        },
+        {
+          "block_type": "line",
+          "top": 315,
+          "text": "8. Forward-Looking Note for Next Cycle"
+        },
+        {
+          "block_type": "line",
+          "top": 339,
+          "text": "Group Finance was expected to publish an updated SSP allocation methodology introducing a Weighted Factor per"
+        },
+        {
+          "block_type": "line",
+          "top": 354,
+          "text": "deliverable category later in 2025. The next cycle should re-baseline the recalculation approach using the new"
+        },
+        {
+          "block_type": "line",
+          "top": 366,
+          "text": "Relative SSP formula and re-test the approval variance threshold."
+        },
+        {
+          "block_type": "line",
+          "top": 396,
+          "text": "9. Revision History"
+        },
+        {
+          "block_type": "table",
+          "top": 418.0,
+          "rows": [
+            [
+              "Version",
+              "Date",
+              "Summary of Change"
+            ],
+            [
+              "1.0",
+              "Feb 2025",
+              "Initial work paper issuance"
+            ]
+          ],
+          "n_rows": 2,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 477,
+          "text": "CLOSED WORK PAPER"
+        },
+        {
+          "block_type": "line",
+          "top": 501,
+          "text": "WP-ORD-002 | FY2025 Q1"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+        }
+      ]
+    }
+  ]
+}

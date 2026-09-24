@@ -1,0 +1,472 @@
+{
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+  "parsed_at": "2026-09-23T09:11:15.867306+00:00",
+  "num_pages": 4,
+  "ocr_engine_available": false,
+  "pages": [
+    {
+      "page_number": 1,
+      "extraction_method": "text",
+      "char_count": 530,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "CFO POLICY FRAMEWORK"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "ORDER INTAKE"
+        },
+        {
+          "block_type": "line",
+          "top": 111,
+          "text": "RECOGNITION & MEASUREMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 135,
+          "text": "Policy & Control Standard"
+        },
+        {
+          "block_type": "table",
+          "top": 160.0,
+          "rows": [
+            [
+              "POLICY ID",
+              "POL-ORD-001",
+              "VERSION",
+              "1.0"
+            ],
+            [
+              "STATUS",
+              "SUPERSEDED",
+              "EFFECTIVE",
+              "January 2023"
+            ],
+            [
+              "SUPERSEDED",
+              "January 2025",
+              "CONTROL ID",
+              "CTRL-REV-014"
+            ],
+            [
+              "PROCESS AREA",
+              "Order-to-Cash (O2C)",
+              "OWNER",
+              "Group Finance – Revenue Assurance"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 4
+        },
+        {
+          "block_type": "line",
+          "top": 267,
+          "text": "DOCUMENT STATUS"
+        },
+        {
+          "block_type": "line",
+          "top": 291,
+          "text": "This policy is superseded effective January 2025. It is retained for historical reference and control traceability."
+        },
+        {
+          "block_type": "line",
+          "top": 321,
+          "text": "Controlled Document"
+        },
+        {
+          "block_type": "line",
+          "top": 336,
+          "text": "For internal finance, revenue assurance, audit and control-reference purposes."
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | POL-ORD-001 Page 1"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "extraction_method": "text",
+      "char_count": 1589,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "1. Purpose"
+        },
+        {
+          "block_type": "line",
+          "top": 87,
+          "text": "This policy establishes the principles, criteria, and controls governing the recognition and measurement of Order"
+        },
+        {
+          "block_type": "line",
+          "top": 102,
+          "text": "Intake across the Company."
+        },
+        {
+          "block_type": "line",
+          "top": 129,
+          "text": "2. Scope"
+        },
+        {
+          "block_type": "line",
+          "top": 156,
+          "text": "This policy applies to all business units, regions, and legal entities that generate, process, or record customer orders"
+        },
+        {
+          "block_type": "line",
+          "top": 168,
+          "text": "under the Order-to-Cash (O2C) cycle, including:"
+        },
+        {
+          "block_type": "line",
+          "top": 189,
+          "text": "- Hardware and Software arrangements"
+        },
+        {
+          "block_type": "line",
+          "top": 207,
+          "text": "- Standalone Services arrangements"
+        },
+        {
+          "block_type": "line",
+          "top": 222,
+          "text": "- Bundled multi-element arrangements"
+        },
+        {
+          "block_type": "line",
+          "top": 255,
+          "text": "3. Definitions"
+        },
+        {
+          "block_type": "line",
+          "top": 282,
+          "text": "3.1 Order"
+        },
+        {
+          "block_type": "line",
+          "top": 303,
+          "text": "A binding agreement between the Company and a customer under which the Company commits to deliver goods"
+        },
+        {
+          "block_type": "line",
+          "top": 315,
+          "text": "and/or services in exchange for consideration."
+        },
+        {
+          "block_type": "line",
+          "top": 339,
+          "text": "3.2 Order Backlog"
+        },
+        {
+          "block_type": "line",
+          "top": 360,
+          "text": "The cumulative value of Orders recognized as Order Intake but not yet delivered, fulfilled, or recognized as revenue."
+        },
+        {
+          "block_type": "line",
+          "top": 390,
+          "text": "4. Roles and Responsibilities"
+        },
+        {
+          "block_type": "table",
+          "top": 411.5,
+          "rows": [
+            [
+              "Role",
+              "Responsibility"
+            ],
+            [
+              "Sales Operations",
+              "Order capture and documentation collection"
+            ],
+            [
+              "Finance Business Partners",
+              "Recognition criteria review"
+            ],
+            [
+              "Finance Manager",
+              "Credit risk sign-off (see 5.3)"
+            ],
+            [
+              "Group Finance (Revenue Assurance)",
+              "Policy ownership and testing"
+            ]
+          ],
+          "n_rows": 5,
+          "n_cols": 2
+        },
+        {
+          "block_type": "line",
+          "top": 528,
+          "text": "5. Order Intake Recognition and Measurement"
+        },
+        {
+          "block_type": "line",
+          "top": 555,
+          "text": "5.1 Recognition Criteria for Order Intake"
+        },
+        {
+          "block_type": "line",
+          "top": 576,
+          "text": "An order shall be recognized as Order Intake when:"
+        },
+        {
+          "block_type": "line",
+          "top": 597,
+          "text": "- a) A legally binding contract or Purchase Order (PO) exists, AND"
+        },
+        {
+          "block_type": "line",
+          "top": 615,
+          "text": "- b) The order value can be reliably measured."
+        },
+        {
+          "block_type": "line",
+          "top": 630,
+          "text": "Orders not meeting both (a) and (b) shall remain in the sales pipeline and shall not be recorded as Order Intake."
+        },
+        {
+          "block_type": "line",
+          "top": 654,
+          "text": "5.2 Customer Commitment"
+        },
+        {
+          "block_type": "line",
+          "top": 675,
+          "text": "Customer commitment is evidenced by receipt of a signed Purchase Order alone. A countersigned contract is"
+        },
+        {
+          "block_type": "line",
+          "top": 687,
+          "text": "preferred but not mandatory, provided the PO specifies:"
+        },
+        {
+          "block_type": "line",
+          "top": 708,
+          "text": "- Price"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | POL-ORD-001 Page 2"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "extraction_method": "text",
+      "char_count": 1451,
+      "blocks": [
+        {
+          "block_type": "line",
+          "top": 63,
+          "text": "- Quantity"
+        },
+        {
+          "block_type": "line",
+          "top": 81,
+          "text": "- Delivery terms"
+        },
+        {
+          "block_type": "line",
+          "top": 105,
+          "text": "5.3 Collectability Assessment"
+        },
+        {
+          "block_type": "line",
+          "top": 132,
+          "text": "5.3.1 Assessment Basis"
+        },
+        {
+          "block_type": "line",
+          "top": 153,
+          "text": "Collectability is assessed based solely on the customer's credit rating at time of order receipt, as classified below:"
+        },
+        {
+          "block_type": "table",
+          "top": 169.5,
+          "rows": [
+            [
+              "Credit Rating",
+              "Risk Classification",
+              "Action Required"
+            ],
+            [
+              "A",
+              "Low Risk",
+              "None"
+            ],
+            [
+              "B",
+              "Medium Risk",
+              "Standard booking"
+            ],
+            [
+              "Below B",
+              "High Risk",
+              "Finance Manager review"
+            ]
+          ],
+          "n_rows": 4,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 261,
+          "text": "5.3.2 Escalation Requirements"
+        },
+        {
+          "block_type": "line",
+          "top": 282,
+          "text": "Orders from customers rated below \"B\" require Finance Manager sign-off prior to booking. No additional escalation is"
+        },
+        {
+          "block_type": "line",
+          "top": 297,
+          "text": "required regardless of order value."
+        },
+        {
+          "block_type": "line",
+          "top": 321,
+          "text": "5.4 Timing for Booking of Order Intake"
+        },
+        {
+          "block_type": "line",
+          "top": 339,
+          "text": "Order Intake shall be booked immediately upon receipt of a valid Purchase Order, regardless of contract signature"
+        },
+        {
+          "block_type": "line",
+          "top": 354,
+          "text": "status. This approach prioritizes:"
+        },
+        {
+          "block_type": "line",
+          "top": 375,
+          "text": "- Timeliness of reporting, over"
+        },
+        {
+          "block_type": "line",
+          "top": 390,
+          "text": "- Administrative completeness of documentation"
+        },
+        {
+          "block_type": "line",
+          "top": 420,
+          "text": "CONTROL PRINCIPLE"
+        },
+        {
+          "block_type": "line",
+          "top": 444,
+          "text": "A valid Purchase Order is the primary trigger for Order Intake booking, subject to the recognition criteria and"
+        },
+        {
+          "block_type": "line",
+          "top": 456,
+          "text": "collectability requirements defined above."
+        },
+        {
+          "block_type": "line",
+          "top": 489,
+          "text": "6. Order Intake Approvals"
+        },
+        {
+          "block_type": "line",
+          "top": 513,
+          "text": "Refer to POL-ORD-003 (Order Intake Approval & Backlog Management Policy) for the applicable delegation of"
+        },
+        {
+          "block_type": "line",
+          "top": 528,
+          "text": "authority matrix."
+        },
+        {
+          "block_type": "line",
+          "top": 555,
+          "text": "7. Exceptions and Escalation"
+        },
+        {
+          "block_type": "line",
+          "top": 579,
+          "text": "Deviations from this policy require Finance Manager approval, with escalation to Group Finance for exceptions"
+        },
+        {
+          "block_type": "line",
+          "top": 594,
+          "text": "exceeding $100,000 in order value."
+        },
+        {
+          "block_type": "line",
+          "top": 624,
+          "text": "8. Related Policies"
+        },
+        {
+          "block_type": "line",
+          "top": 648,
+          "text": "- POL-ORD-002: Order Intake Value & SSP Allocation Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 666,
+          "text": "- POL-ORD-003: Order Intake Approval & Backlog Management Policy"
+        },
+        {
+          "block_type": "line",
+          "top": 696,
+          "text": "9. Revision History"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | POL-ORD-001 Page 3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "extraction_method": "text",
+      "char_count": 187,
+      "blocks": [
+        {
+          "block_type": "table",
+          "top": 60.0,
+          "rows": [
+            [
+              "Version",
+              "Date",
+              "Summary of Change"
+            ],
+            [
+              "1.0",
+              "Jan 2023",
+              "Initial policy issuance"
+            ]
+          ],
+          "n_rows": 2,
+          "n_cols": 3
+        },
+        {
+          "block_type": "line",
+          "top": 117,
+          "text": "END OF CONTROLLED DOCUMENT"
+        },
+        {
+          "block_type": "line",
+          "top": 141,
+          "text": "Policy ID: POL-ORD-001 | Version: 1.0 | Status: Superseded"
+        },
+        {
+          "block_type": "line",
+          "top": 750,
+          "text": "CFO POLICY FRAMEWORK | POL-ORD-001 Page 4"
+        }
+      ]
+    }
+  ]
+}

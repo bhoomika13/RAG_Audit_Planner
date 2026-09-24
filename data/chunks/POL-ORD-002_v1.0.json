@@ -1,0 +1,422 @@
+[
+  {
+    "page_content": "CFO POLICY FRAMEWORK\nORDER INTAKE VALUE & SSP\nALLOCATION\nPolicy & Control Standard",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 1,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 0,
+      "chunk_id": "POL-ORD-002_v1.0_p1_c0",
+      "char_count": 82
+    }
+  },
+  {
+    "page_content": "POLICY ID | POL-ORD-002 | VERSION | 1.0\nSTATUS | SUPERSEDED | EFFECTIVE | March 2023\nSUPERSEDED | June 2025 | CONTROL ID | CTRL-REV-015\nPROCESS AREA | Order-to-Cash (O2C) | OWNER | Group Finance – Revenue Assurance",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 1,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 1,
+      "n_rows": 4,
+      "n_cols": 4,
+      "table_rows": [
+        [
+          "POLICY ID",
+          "POL-ORD-002",
+          "VERSION",
+          "1.0"
+        ],
+        [
+          "STATUS",
+          "SUPERSEDED",
+          "EFFECTIVE",
+          "March 2023"
+        ],
+        [
+          "SUPERSEDED",
+          "June 2025",
+          "CONTROL ID",
+          "CTRL-REV-015"
+        ],
+        [
+          "PROCESS AREA",
+          "Order-to-Cash (O2C)",
+          "OWNER",
+          "Group Finance – Revenue Assurance"
+        ]
+      ],
+      "chunk_id": "POL-ORD-002_v1.0_p1_c1",
+      "char_count": 214
+    }
+  },
+  {
+    "page_content": "SUPERSEDED\nHistorical version retained for audit trail, prior-period testing and control traceability.\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 1,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 2,
+      "chunk_id": "POL-ORD-002_v1.0_p1_c2",
+      "char_count": 152
+    }
+  },
+  {
+    "page_content": "1. Purpose\nThis policy defines the methodology used to measure the value of Order Intake for multi-element arrangements,\nincluding allocation of contract value across deliverables using Standalone Selling Price (SSP).\n2. Scope\nApplies to all multi-element customer arrangements combining:\n- Hardware/Software (HW/SW) deliverables, AND\n- Services deliverables\n3. Definitions\nStandalone Selling Price (SSP): The price at which the Company would sell a deliverable separately under similar\ncircumstances.\n4. Roles and Responsibilities",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 0,
+      "chunk_id": "POL-ORD-002_v1.0_p2_c0",
+      "char_count": 531
+    }
+  },
+  {
+    "page_content": "Role | Responsibility\nDeal Desk | Prepares SSP allocation calculations\nFinance Manager | Reviews allocations exceeding variance threshold\nPricing Team | Maintains standard list price catalogue",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 1,
+      "n_rows": 4,
+      "n_cols": 2,
+      "table_rows": [
+        [
+          "Role",
+          "Responsibility"
+        ],
+        [
+          "Deal Desk",
+          "Prepares SSP allocation calculations"
+        ],
+        [
+          "Finance Manager",
+          "Reviews allocations exceeding variance threshold"
+        ],
+        [
+          "Pricing Team",
+          "Maintains standard list price catalogue"
+        ]
+      ],
+      "chunk_id": "POL-ORD-002_v1.0_p2_c1",
+      "char_count": 192
+    }
+  },
+  {
+    "page_content": "5. SSP Allocation Methodology\n5.1 Calculation Basis\nAllocation is performed using the Standalone List Price method. Each deliverable is allocated a share of total contract\nvalue based on its list price relative to total list price of all deliverables. No weighting adjustment is applied.\n5.2 Allocation Formula\nSSP Allocation (Deliverable) = (List Price of Deliverable ÷ Total List Price of All Deliverables) × Total Contract Value\n6. Sample Allocation Illustration",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 2,
+      "chunk_id": "POL-ORD-002_v1.0_p2_c2",
+      "char_count": 465
+    }
+  },
+  {
+    "page_content": "Deliverable | Contract Value | SSP | SSP Allocation\nHW/SW | 30 | 30 | 27.90\nServices | 1 | 10 | 3.10\nTotal | 31 | 40 | 31.00",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 3,
+      "n_rows": 4,
+      "n_cols": 4,
+      "table_rows": [
+        [
+          "Deliverable",
+          "Contract Value",
+          "SSP",
+          "SSP Allocation"
+        ],
+        [
+          "HW/SW",
+          "30",
+          "30",
+          "27.90"
+        ],
+        [
+          "Services",
+          "1",
+          "10",
+          "3.10"
+        ],
+        [
+          "Total",
+          "31",
+          "40",
+          "31.00"
+        ]
+      ],
+      "chunk_id": "POL-ORD-002_v1.0_p2_c3",
+      "char_count": 124
+    }
+  },
+  {
+    "page_content": "The allocation reflects a proportional split based on the list price ratio of 30:10, applied against total contract value of\n31.\n7. Approval Requirements\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 2,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 4,
+      "chunk_id": "POL-ORD-002_v1.0_p2_c4",
+      "char_count": 203
+    }
+  },
+  {
+    "page_content": "Allocations resulting in variance greater than 20% from standard list price ratios require Finance Manager sign-off\nprior to booking.\n8. Related Policies\n- POL-ORD-001: Order Intake Recognition & Measurement Policy\n- POL-ORD-003: Order Intake Approval & Backlog Management Policy\n9. Revision History",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 0,
+      "chunk_id": "POL-ORD-002_v1.0_p3_c0",
+      "char_count": 299
+    }
+  },
+  {
+    "page_content": "Version | Date | Summary of Change\n1.0 | Mar 2023 | Initial policy issuance",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "table",
+      "chunk_index": 1,
+      "n_rows": 2,
+      "n_cols": 3,
+      "table_rows": [
+        [
+          "Version",
+          "Date",
+          "Summary of Change"
+        ],
+        [
+          "1.0",
+          "Mar 2023",
+          "Initial policy issuance"
+        ]
+      ],
+      "chunk_id": "POL-ORD-002_v1.0_p3_c1",
+      "char_count": 75
+    }
+  },
+  {
+    "page_content": "CONTROLLED DOCUMENT\nPOL-ORD-002 | VERSION 1.0 | SUPERSEDED\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3",
+    "metadata": {
+      "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-002_v1.0_Order-Intake-Value-SSP-Allocation.pdf",
+      "page_number": 3,
+      "extraction_method": "text",
+      "doc_id": "POL-ORD-002_v1.0",
+      "doc_type": "policy",
+      "policy_id": "POL-ORD-002",
+      "version": "1.0",
+      "status": "SUPERSEDED",
+      "is_current": false,
+      "control_id": "CTRL-REV-015",
+      "process_area": "Order-to-Cash (O2C)",
+      "owner": "Group Finance – Revenue Assurance",
+      "effective_date": "2023-03",
+      "superseded_date": "2025-06",
+      "supersedes": null,
+      "superseded_by": "POL-ORD-002_v2.0",
+      "audit_cycle": null,
+      "date_prepared": null,
+      "tests_policy_id": null,
+      "tests_policy_version": null,
+      "tests_policy_doc_id": null,
+      "chunk_type": "text",
+      "chunk_index": 2,
+      "chunk_id": "POL-ORD-002_v1.0_p3_c2",
+      "char_count": 108
+    }
+  }
+]

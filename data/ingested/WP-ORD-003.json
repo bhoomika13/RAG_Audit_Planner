@@ -1,0 +1,410 @@
+{
+  "doc_id": "WP-ORD-003",
+  "doc_type": "work_paper",
+  "metadata": {
+    "doc_type": "work_paper",
+    "policy_id": "WP-ORD-003",
+    "version": null,
+    "status": "CLOSED",
+    "effective_date": null,
+    "superseded_date": "2025-09",
+    "control_id": "CTRL-REV-016",
+    "process_area": "Order-to-Cash (O2C)",
+    "owner": null,
+    "change_basis": null,
+    "audit_cycle": "FY2025 Q2",
+    "date_prepared": "2025-06",
+    "prepared_by": "Internal Audit Team",
+    "tests_policy_id": "POL-ORD-003",
+    "tests_policy_version": "1.0",
+    "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Jun2025.pdf",
+    "parsed_json_path": "data\\parsed\\WP-ORD-Jun2025.json",
+    "doc_id": "WP-ORD-003",
+    "tests_policy_doc_id": "POL-ORD-003_v1.0"
+  },
+  "num_pages": 3,
+  "num_blocks": 43,
+  "num_tables": 3,
+  "pages": [
+    {
+      "page_content": "CFO POLICY FRAMEWORK\nORDER INTAKE APPROVAL &\nBACKLOG MANAGEMENT — PRIOR\nAUDIT PLAN & TESTING SUMMARY\nPrior Audit Planner Output\nWORK PAPER ID | WP-ORD-003 | AUDIT CYCLE | FY2025 Q2\nDATE PREPARED | June 2025 | POLICY TESTED | POL-ORD-003 v1.0\nCONTROL ID | CTRL-REV-016 | PROCESS AREA | Order-to-Cash (O2C)\nPREPARED BY | Internal Audit Team | STATUS | CLOSED — superseded Sep 2025\nSUPERSEDED\nHistorical version retained for audit trail, prior-period testing and control traceability.\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Jun2025.pdf",
+        "page_number": 1,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "CFO POLICY FRAMEWORK"
+          },
+          {
+            "block_type": "line",
+            "top": 87,
+            "text": "ORDER INTAKE APPROVAL &"
+          },
+          {
+            "block_type": "line",
+            "top": 111,
+            "text": "BACKLOG MANAGEMENT — PRIOR"
+          },
+          {
+            "block_type": "line",
+            "top": 135,
+            "text": "AUDIT PLAN & TESTING SUMMARY"
+          },
+          {
+            "block_type": "line",
+            "top": 159,
+            "text": "Prior Audit Planner Output"
+          },
+          {
+            "block_type": "table",
+            "top": 184.0,
+            "rows": [
+              [
+                "WORK PAPER ID",
+                "WP-ORD-003",
+                "AUDIT CYCLE",
+                "FY2025 Q2"
+              ],
+              [
+                "DATE PREPARED",
+                "June 2025",
+                "POLICY TESTED",
+                "POL-ORD-003 v1.0"
+              ],
+              [
+                "CONTROL ID",
+                "CTRL-REV-016",
+                "PROCESS AREA",
+                "Order-to-Cash (O2C)"
+              ],
+              [
+                "PREPARED BY",
+                "Internal Audit Team",
+                "STATUS",
+                "CLOSED — superseded Sep 2025"
+              ]
+            ],
+            "n_rows": 4,
+            "n_cols": 4
+          },
+          {
+            "block_type": "line",
+            "top": 291,
+            "text": "SUPERSEDED"
+          },
+          {
+            "block_type": "line",
+            "top": 315,
+            "text": "Historical version retained for audit trail, prior-period testing and control traceability."
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 1"
+          }
+        ],
+        "doc_id": "WP-ORD-003",
+        "doc_type": "work_paper",
+        "policy_id": "WP-ORD-003",
+        "version": null,
+        "status": "CLOSED",
+        "is_current": null,
+        "control_id": "CTRL-REV-016",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": null,
+        "effective_date": null,
+        "superseded_date": "2025-09",
+        "supersedes": null,
+        "superseded_by": null,
+        "audit_cycle": "FY2025 Q2",
+        "date_prepared": "2025-06",
+        "tests_policy_id": "POL-ORD-003",
+        "tests_policy_version": "1.0",
+        "tests_policy_doc_id": "POL-ORD-003_v1.0"
+      }
+    },
+    {
+      "page_content": "1. Audit Objective\nTo assess compliance with the Order Intake Approval Authority Matrix and Order Backlog monitoring requirements\nunder POL-ORD-003 v1.0, and evaluate control CTRL-REV-016.\n2. Background and Scope\nThis audit plan covers orders booked between January 2025 and May 2025 for approval matrix testing, and quarterly\nBacklog review reports for Q4 2024 and Q1 2025 for aging testing.\n3. Key Risk Indicators (KRIs)\nKRI ID | KRI Description | Related Policy Clause | Risk Rating\nKRI-008 | Orders approved by incorrect authority level relative to value | Section 3 | High\nKRI-009 | Backlog items aging &gt;12 months not flagged for review | Section 4.2, 4.3 | Medium\nKRI-010 | Quarterly Backlog review not evidenced/performed on schedule | Section 4.1 | Medium\n4. Audit Planning Steps\n4.1 Step Mapping to Policy Clauses\nStep # | Audit Step Description | Policy Clause Tested | Related KRI\n1 | Verify order approver matches required authority level relative to value ti | e3r | KRI-008\n2 | Recalculate Backlog aging and confirm items &gt;365 days were flagged | 4.2, 4.3 | KRI-009\n3 | Confirm quarterly Backlog review evidence exists for each quarter | 4.1 | KRI-010\n4.2 Sample Selection Approach\n- Approval testing population: Orders booked Jan–May 2025 (n = 210)\n- Approval sample size: 20 orders, stratified across all 3 value tiers\n- Backlog testing: All items in Backlog >300 days as of review date (n = 27), full population tested\n5. Testing Procedures Performed\n- Traced order value to approver identity and role in system\n- Cross-referenced approver role against Table 1 (Delegation of Authority) in POL-ORD-003 v1.0\n-\n- Recalculated aging using Aging (Days) = Current Date Original Order Booking Date\n- Confirmed items >365 days were flagged and reviewed by Finance Manager\n- Obtained quarterly Backlog review sign-off evidence for Q4 2024 and Q1 2025\n6. Findings Summary\n6.1 Approval Matrix Testing\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Jun2025.pdf",
+        "page_number": 2,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "1. Audit Objective"
+          },
+          {
+            "block_type": "line",
+            "top": 87,
+            "text": "To assess compliance with the Order Intake Approval Authority Matrix and Order Backlog monitoring requirements"
+          },
+          {
+            "block_type": "line",
+            "top": 102,
+            "text": "under POL-ORD-003 v1.0, and evaluate control CTRL-REV-016."
+          },
+          {
+            "block_type": "line",
+            "top": 129,
+            "text": "2. Background and Scope"
+          },
+          {
+            "block_type": "line",
+            "top": 156,
+            "text": "This audit plan covers orders booked between January 2025 and May 2025 for approval matrix testing, and quarterly"
+          },
+          {
+            "block_type": "line",
+            "top": 168,
+            "text": "Backlog review reports for Q4 2024 and Q1 2025 for aging testing."
+          },
+          {
+            "block_type": "line",
+            "top": 198,
+            "text": "3. Key Risk Indicators (KRIs)"
+          },
+          {
+            "block_type": "table",
+            "top": 220.0,
+            "rows": [
+              [
+                "KRI ID",
+                "KRI Description",
+                "Related Policy Clause",
+                "Risk Rating"
+              ],
+              [
+                "KRI-008",
+                "Orders approved by incorrect authority level relative to value",
+                "Section 3",
+                "High"
+              ],
+              [
+                "KRI-009",
+                "Backlog items aging &gt;12 months not flagged for review",
+                "Section 4.2, 4.3",
+                "Medium"
+              ],
+              [
+                "KRI-010",
+                "Quarterly Backlog review not evidenced/performed on schedule",
+                "Section 4.1",
+                "Medium"
+              ]
+            ],
+            "n_rows": 4,
+            "n_cols": 4
+          },
+          {
+            "block_type": "line",
+            "top": 318,
+            "text": "4. Audit Planning Steps"
+          },
+          {
+            "block_type": "line",
+            "top": 345,
+            "text": "4.1 Step Mapping to Policy Clauses"
+          },
+          {
+            "block_type": "table",
+            "top": 363.0,
+            "rows": [
+              [
+                "Step #",
+                "Audit Step Description",
+                "Policy Clause Tested",
+                "Related KRI"
+              ],
+              [
+                "1",
+                "Verify order approver matches required authority level relative to value ti",
+                "e3r",
+                "KRI-008"
+              ],
+              [
+                "2",
+                "Recalculate Backlog aging and confirm items &gt;365 days were flagged",
+                "4.2, 4.3",
+                "KRI-009"
+              ],
+              [
+                "3",
+                "Confirm quarterly Backlog review evidence exists for each quarter",
+                "4.1",
+                "KRI-010"
+              ]
+            ],
+            "n_rows": 4,
+            "n_cols": 4
+          },
+          {
+            "block_type": "line",
+            "top": 456,
+            "text": "4.2 Sample Selection Approach"
+          },
+          {
+            "block_type": "line",
+            "top": 477,
+            "text": "- Approval testing population: Orders booked Jan–May 2025 (n = 210)"
+          },
+          {
+            "block_type": "line",
+            "top": 495,
+            "text": "- Approval sample size: 20 orders, stratified across all 3 value tiers"
+          },
+          {
+            "block_type": "line",
+            "top": 510,
+            "text": "- Backlog testing: All items in Backlog >300 days as of review date (n = 27), full population tested"
+          },
+          {
+            "block_type": "line",
+            "top": 543,
+            "text": "5. Testing Procedures Performed"
+          },
+          {
+            "block_type": "line",
+            "top": 567,
+            "text": "- Traced order value to approver identity and role in system"
+          },
+          {
+            "block_type": "line",
+            "top": 585,
+            "text": "- Cross-referenced approver role against Table 1 (Delegation of Authority) in POL-ORD-003 v1.0"
+          },
+          {
+            "block_type": "line",
+            "top": 600,
+            "text": "-"
+          },
+          {
+            "block_type": "line",
+            "top": 603,
+            "text": "- Recalculated aging using Aging (Days) = Current Date Original Order Booking Date"
+          },
+          {
+            "block_type": "line",
+            "top": 618,
+            "text": "- Confirmed items >365 days were flagged and reviewed by Finance Manager"
+          },
+          {
+            "block_type": "line",
+            "top": 636,
+            "text": "- Obtained quarterly Backlog review sign-off evidence for Q4 2024 and Q1 2025"
+          },
+          {
+            "block_type": "line",
+            "top": 666,
+            "text": "6. Findings Summary"
+          },
+          {
+            "block_type": "line",
+            "top": 693,
+            "text": "6.1 Approval Matrix Testing"
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 2"
+          }
+        ],
+        "doc_id": "WP-ORD-003",
+        "doc_type": "work_paper",
+        "policy_id": "WP-ORD-003",
+        "version": null,
+        "status": "CLOSED",
+        "is_current": null,
+        "control_id": "CTRL-REV-016",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": null,
+        "effective_date": null,
+        "superseded_date": "2025-09",
+        "supersedes": null,
+        "superseded_by": null,
+        "audit_cycle": "FY2025 Q2",
+        "date_prepared": "2025-06",
+        "tests_policy_id": "POL-ORD-003",
+        "tests_policy_version": "1.0",
+        "tests_policy_doc_id": "POL-ORD-003_v1.0"
+      }
+    },
+    {
+      "page_content": "The supplied work paper excerpt ends after the testing procedures section; no findings table or results for approval\ntesting were included in the provided source text.\n6.2 Backlog Aging Testing\nThe supplied work paper excerpt does not include the subsequent findings, recommendations, or revision-history\ncontent. Those sections have intentionally not been invented.\nSOURCE COMPLETENESS NOTE\nThis document has been formatted from the content provided. The source supplied for WP-ORD-003 ends at\nSection 6 and therefore the remaining original content is not reproduced.\nCFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3",
+      "metadata": {
+        "source": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\WP-ORD-Jun2025.pdf",
+        "page_number": 3,
+        "extraction_method": "text",
+        "blocks": [
+          {
+            "block_type": "line",
+            "top": 63,
+            "text": "The supplied work paper excerpt ends after the testing procedures section; no findings table or results for approval"
+          },
+          {
+            "block_type": "line",
+            "top": 75,
+            "text": "testing were included in the provided source text."
+          },
+          {
+            "block_type": "line",
+            "top": 99,
+            "text": "6.2 Backlog Aging Testing"
+          },
+          {
+            "block_type": "line",
+            "top": 120,
+            "text": "The supplied work paper excerpt does not include the subsequent findings, recommendations, or revision-history"
+          },
+          {
+            "block_type": "line",
+            "top": 132,
+            "text": "content. Those sections have intentionally not been invented."
+          },
+          {
+            "block_type": "line",
+            "top": 168,
+            "text": "SOURCE COMPLETENESS NOTE"
+          },
+          {
+            "block_type": "line",
+            "top": 192,
+            "text": "This document has been formatted from the content provided. The source supplied for WP-ORD-003 ends at"
+          },
+          {
+            "block_type": "line",
+            "top": 204,
+            "text": "Section 6 and therefore the remaining original content is not reproduced."
+          },
+          {
+            "block_type": "line",
+            "top": 750,
+            "text": "CFO POLICY FRAMEWORK | CONTROLLED DOCUMENT Page 3"
+          }
+        ],
+        "doc_id": "WP-ORD-003",
+        "doc_type": "work_paper",
+        "policy_id": "WP-ORD-003",
+        "version": null,
+        "status": "CLOSED",
+        "is_current": null,
+        "control_id": "CTRL-REV-016",
+        "process_area": "Order-to-Cash (O2C)",
+        "owner": null,
+        "effective_date": null,
+        "superseded_date": "2025-09",
+        "supersedes": null,
+        "superseded_by": null,
+        "audit_cycle": "FY2025 Q2",
+        "date_prepared": "2025-06",
+        "tests_policy_id": "POL-ORD-003",
+        "tests_policy_version": "1.0",
+        "tests_policy_doc_id": "POL-ORD-003_v1.0"
+      }
+    }
+  ]
+}

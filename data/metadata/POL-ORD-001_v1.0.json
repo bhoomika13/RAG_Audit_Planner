@@ -1,0 +1,23 @@
+{
+  "doc_type": "policy",
+  "policy_id": "POL-ORD-001",
+  "version": "1.0",
+  "status": "SUPERSEDED",
+  "effective_date": "2023-01",
+  "superseded_date": "2025-01",
+  "control_id": "CTRL-REV-014",
+  "process_area": "Order-to-Cash (O2C)",
+  "owner": "Group Finance – Revenue Assurance",
+  "change_basis": null,
+  "audit_cycle": null,
+  "date_prepared": null,
+  "prepared_by": null,
+  "tests_policy_id": null,
+  "tests_policy_version": null,
+  "source_file": "C:\\Users\\USER\\Desktop\\RAG\\output_pdfs\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.pdf",
+  "parsed_json_path": "data\\parsed\\POL-ORD-001_v1.0_Order-Intake-Recognition-Measurement.json",
+  "doc_id": "POL-ORD-001_v1.0",
+  "supersedes": null,
+  "superseded_by": "POL-ORD-001_v2.0",
+  "is_current": false
+}
